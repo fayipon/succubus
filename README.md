@@ -131,3 +131,15 @@ GitHub repository 的 Settings → Pages → Source 必須選擇 GitHub Actions�
 3D API 參考：[GLTFLoader](https://threejs.org/docs/pages/GLTFLoader.html)、[OrbitControls](https://threejs.org/docs/pages/OrbitControls.html)。
 
 
+
+### v0.7：完整 3D 草模
+展示頁改用 full-01 人物與房間 GLB，可 360 度旋轉。以 MakeHuman CC0 基礎人體建立近似角色，服裝與髮型為程式建模；尚未達到照片相似度。資產授權見 app/public/examples/full-01/LICENSE.ASSETS.md。來源：https://github.com/makehumancommunity/makehuman 。
+
+
+## NOCTIA 動畫展示
+
+本機預覽：`http://127.0.0.1:4173/#room/noctia`。在角色列表選 NOCTIA 後可進入月夜圖書館，切換待機與左手放心前、暫停、近看。遵循減少動態效果偏好，首次進入時暫停動畫。
+
+資料與透明素材位於 `app/public/examples/noctia/`，來源為 `design/noctia/actions-v3/`。網站使用自行實作的 Three.js 加權網格播放器，只支援本角色用到的位移、旋轉、縮放和附件切換；沒有使用 Spine 官方 runtime，也不是通用 Spine 播放器。原有 Succubus 01 的 3D 展示間保留。
+
+部署仍使用既有靜態建置流程，資源採相對網址以支援 GitHub Pages 子路徑。
