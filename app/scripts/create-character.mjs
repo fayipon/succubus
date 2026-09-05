@@ -73,10 +73,10 @@ for(const s of [-1,1])for(let i=0;i<7;i++){
 tube('Necklace',[[-.05,1.50,.035],[-.075,1.453,.071],[0,1.411,.108],[.075,1.453,.071],[.05,1.50,.035]],.002,gold);
 oval('Pendant',[0,1.407,.113],[.008,.011,.004],gold);
 const room=new T.Group();room.name='SoftLightRoom';
-const floor=material('#27212d',.82),platform=material('#594653',.52),curtain=material('#b5a29d',.94),trim=material('#b59976',.45,.5);
+const floor=material('#211b29',.36),platform=material('#382839',.3),curtain=material('#493147',.94),trim=material('#b59976',.45,.5);
 mesh('Floor',new T.CylinderGeometry(3,3,.06,96),floor,[0,-.08,0],room);
 mesh('DisplayPlinth',new T.CylinderGeometry(.65,.68,.07,96),platform,[0,-.035,0],room);
-const ring=mesh('PlinthTrim',new T.TorusGeometry(.65,.006,8,96),trim,[0,-.006,0],room);ring.rotation.x=Math.PI/2;
+const ring=mesh('PlinthTrim',new T.TorusGeometry(.65,.006,8,96),trim,[0,-.006,0],room);ring.rotation.x=Math.PI/2;ring.material=material('#efafd9',.3);ring.material.emissive=new T.Color('#ea75c4');ring.material.emissiveIntensity=2.4;
 for(let i=0;i<40;i++){const a=Math.PI*.18+i/39*Math.PI*.64;const x=Math.cos(a)*2,z=-Math.sin(a)*2;mesh('CurtainFold'+i,new T.CylinderGeometry(.085,.10,2.8,12),curtain,[x,1.32,z],room);}
 for(const s of [-1,1]){mesh('LightStand'+s,new T.CylinderGeometry(.018,.024,1.65,12),trim,[s*1.15,.8,-.6],room);mesh('LightBase'+s,new T.CylinderGeometry(.15,.17,.03,32),platform,[s*1.15,-.035,-.6],room);const shade=material('#f4ded0',.8);shade.emissive=new T.Color('#e8bba0');shade.emissiveIntensity=.3;mesh('LampShade'+s,new T.CylinderGeometry(.12,.22,.27,32),shade,[s*1.15,1.67,-.6],room);}
 await mkdir('public/examples/succubus-01',{recursive:true});
@@ -86,4 +86,3 @@ for(const [name,object] of [['character',character],['room',room]]){
  const data=await exporter.parseAsync(object,{binary:true});await writeFile('public/examples/succubus-01/'+name+'.glb',Buffer.from(data));
  console.log(name+': '+Math.round(triangles)+' triangles, '+data.byteLength+' bytes');
 }
-

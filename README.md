@@ -10,7 +10,21 @@
 
 ## 初始版本
 
-### v0.4：真正的 3D 人物與房間（目前版本）
+### v0.6：Blender 照片人物展示（目前預設）
+
+- 展示間使用 `blender-viewer.tsx`，載入 `public/examples/blender-01/` 的房間與人物 GLB。
+- 人物來源為 `design/succubus_01-2.png`，以照片貼圖、輪廓遮罩與網格變形呈現微幅待機動作；不是完整 3D 人體，不提供背面。
+- 支援全身／半身／臉部鏡頭、小角度查看、縮放與動態暫停；眨眼與獨立髮絲動畫尚未完成。
+
+### v0.5：照片驅動的 2.5D（歷史版本）
+
+- 為保留人物相似度，展示間改為原始照片驅動，不再預設顯示幾何草模。
+- `photo-depth-viewer.tsx` 將照片貼在有少量深度起伏的密集網格上，搭配正交鏡頭、小角度視差與局部髮絲 UV 微動；沒有投影皮膚到不相似的人體模型。
+- 深度是程式近似，用於視覺效果，不代表從照片恢復真實人體幾何。左右查看限制約 ±8°，不提供背面或 360°。
+- 全身、半身、臉部鏡頭、縮放、重設、手動拖曳與動態暫停皆保留。支援系統減少動態偏好；無法使用 WebGL 時顯示原圖。
+- 全部由目前程式與現有照片完成，不需要使用者手動建模或外部付費生成服務。舊 GLB 保留為歷史素材。
+
+### v0.4：真正的 3D 人物與房間（歷史版本）
 
 - `/#room/succubus-01` 現在載入真實 GLB 網格，取代先前的 2D 圖片展示。
 - 原創風格化人物依參考照片的黑髮、深藍服裝與站立輪廓建模；不是精確人像掃描，未見的側面、背面為補充設計。
@@ -115,4 +129,5 @@ GitHub repository 的 Settings → Pages → Source 必須選擇 GitHub Actions�
 原有 `app/.openai/hosting.json` 保留先前註冊的 Sites 識別，GitHub Pages 不使用該設定。
 
 3D API 參考：[GLTFLoader](https://threejs.org/docs/pages/GLTFLoader.html)、[OrbitControls](https://threejs.org/docs/pages/OrbitControls.html)。
+
 
