@@ -1,0 +1,4 @@
+背景：app/public/images/main-background.png
+來源：app/public/images/main.png
+工具：內建 imagegen
+編輯指令：移除左側原人物的身體、頭髮、角與翅膀，補回夜間店面；保留原構圖、中央中文招牌、進入遊戲按鈕、右側黑貓與街景。不加入替代人物，露克蕾齊亞另由 Spine 播放器呈現。

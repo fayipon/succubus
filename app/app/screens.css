@@ -8,3 +8,9 @@
 .motion-toggle{position:absolute;right:22px;bottom:18px;display:flex;align-items:center;gap:8px;padding:10px 14px;border:1px solid #dfbed160;border-radius:5px;color:#f8e6f4;background:#150e1be0;font-size:14px;min-height:44px}
 @media(max-width:600px){.main-stage{width:100vw}.enter-game{min-height:0}.main-screen{padding-bottom:50px}.motion-toggle{bottom:22px;right:50%;transform:translateX(50%);white-space:nowrap}}
 @media(prefers-reduced-motion:reduce){*,*:before,*:after{scroll-behavior:auto!important;transition:none!important;animation:none!important}}
+.main-hostess{position:absolute;left:-1%;width:38%;top:14%;bottom:0;z-index:2;overflow:hidden;filter:drop-shadow(0 8px 15px #160c2480)}
+.main-hostess .character-animation{inset:0}
+.main-hostess .character-animation-canvas,.main-hostess .character-touch{inset:0}
+.main-hostess .character-load{background:transparent;text-shadow:0 2px 6px #100914;font-size:13px}
+.main-stage .enter-game{z-index:3}
+@media(max-width:600px){.main-hostess{left:-1%;width:38%;top:14%;bottom:0}.main-hostess .character-load{font-size:11px;text-align:center}.main-hostess .character-loader{width:18px;height:18px}}
