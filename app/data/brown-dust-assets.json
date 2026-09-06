@@ -1,0 +1,2762 @@
+{
+  "repository": "Zormolo/Brown-Dust-2-Assets",
+  "commit": "2da10c18b4b1c963949da62591f5d1cabd69cb0b",
+  "files": [
+    {
+      "path": "assets/spine/character/Anastasia/Fire_Graffiti/char060502.atlas",
+      "size": 6084
+    },
+    {
+      "path": "assets/spine/character/Anastasia/Fire_Graffiti/char060502.png",
+      "size": 2185367
+    },
+    {
+      "path": "assets/spine/character/Anastasia/Fire_Graffiti/char060502.skel",
+      "size": 249792
+    },
+    {
+      "path": "assets/spine/character/Anastasia/Gentle_Maid/char060501.atlas",
+      "size": 4483
+    },
+    {
+      "path": "assets/spine/character/Anastasia/Gentle_Maid/char060501.png",
+      "size": 2219936
+    },
+    {
+      "path": "assets/spine/character/Anastasia/Gentle_Maid/char060501.skel",
+      "size": 206431
+    },
+    {
+      "path": "assets/spine/character/Angelica/Neon_Savior/char066403.atlas",
+      "size": 13571
+    },
+    {
+      "path": "assets/spine/character/Angelica/Neon_Savior/char066403.png",
+      "size": 2265933
+    },
+    {
+      "path": "assets/spine/character/Angelica/Neon_Savior/char066403.skel",
+      "size": 883281
+    },
+    {
+      "path": "assets/spine/character/Angelica/Pool_Party/char066402.atlas",
+      "size": 7361
+    },
+    {
+      "path": "assets/spine/character/Angelica/Pool_Party/char066402.png",
+      "size": 2116363
+    },
+    {
+      "path": "assets/spine/character/Angelica/Pool_Party/char066402.skel",
+      "size": 590054
+    },
+    {
+      "path": "assets/spine/character/Angelica/The_Fallen/char066401.atlas",
+      "size": 6192
+    },
+    {
+      "path": "assets/spine/character/Angelica/The_Fallen/char066401.png",
+      "size": 1504635
+    },
+    {
+      "path": "assets/spine/character/Angelica/The_Fallen/char066401.skel",
+      "size": 311526
+    },
+    {
+      "path": "assets/spine/character/Aquila/Savage_Warrior/char067901.atlas",
+      "size": 9562
+    },
+    {
+      "path": "assets/spine/character/Aquila/Savage_Warrior/char067901.png",
+      "size": 2788251
+    },
+    {
+      "path": "assets/spine/character/Aquila/Savage_Warrior/char067901.skel",
+      "size": 904524
+    },
+    {
+      "path": "assets/spine/character/Arines/Priest_of_Vitality/char103701.atlas",
+      "size": 3392
+    },
+    {
+      "path": "assets/spine/character/Arines/Priest_of_Vitality/char103701.png",
+      "size": 819102
+    },
+    {
+      "path": "assets/spine/character/Arines/Priest_of_Vitality/char103701.skel",
+      "size": 277986
+    },
+    {
+      "path": "assets/spine/character/Beatrice/The_Mighty_Warrior_of_the_Tribe/char103501.atlas",
+      "size": 3295
+    },
+    {
+      "path": "assets/spine/character/Beatrice/The_Mighty_Warrior_of_the_Tribe/char103501.png",
+      "size": 953753
+    },
+    {
+      "path": "assets/spine/character/Beatrice/The_Mighty_Warrior_of_the_Tribe/char103501.skel",
+      "size": 150286
+    },
+    {
+      "path": "assets/spine/character/Bernie/Righteous_Raider_Girl/char100801.atlas",
+      "size": 2453
+    },
+    {
+      "path": "assets/spine/character/Bernie/Righteous_Raider_Girl/char100801.png",
+      "size": 627085
+    },
+    {
+      "path": "assets/spine/character/Bernie/Righteous_Raider_Girl/char100801.skel",
+      "size": 223301
+    },
+    {
+      "path": "assets/spine/character/Blade/Apostle/char003701.atlas",
+      "size": 5360
+    },
+    {
+      "path": "assets/spine/character/Blade/Apostle/char003701.png",
+      "size": 1062654
+    },
+    {
+      "path": "assets/spine/character/Blade/Apostle/char003701.skel",
+      "size": 846416
+    },
+    {
+      "path": "assets/spine/character/Blade/Onsen_Swordfighter/char003702.atlas",
+      "size": 6685
+    },
+    {
+      "path": "assets/spine/character/Blade/Onsen_Swordfighter/char003702.png",
+      "size": 1158192
+    },
+    {
+      "path": "assets/spine/character/Blade/Onsen_Swordfighter/char003702.skel",
+      "size": 522413
+    },
+    {
+      "path": "assets/spine/character/Blade/Tender_Dream/char003793.atlas",
+      "size": 7264
+    },
+    {
+      "path": "assets/spine/character/Blade/Tender_Dream/char003793.png",
+      "size": 1425171
+    },
+    {
+      "path": "assets/spine/character/Blade/Tender_Dream/char003793.skel",
+      "size": 484519
+    },
+    {
+      "path": "assets/spine/character/Blade/Young_Lady/char003703.atlas",
+      "size": 9356
+    },
+    {
+      "path": "assets/spine/character/Blade/Young_Lady/char003703.png",
+      "size": 1206045
+    },
+    {
+      "path": "assets/spine/character/Blade/Young_Lady/char003703.skel",
+      "size": 1081418
+    },
+    {
+      "path": "assets/spine/character/Celia/Descendant_of_the_Great_Witch/char060402.atlas",
+      "size": 6725
+    },
+    {
+      "path": "assets/spine/character/Celia/Descendant_of_the_Great_Witch/char060402.png",
+      "size": 1482978
+    },
+    {
+      "path": "assets/spine/character/Celia/Descendant_of_the_Great_Witch/char060402.skel",
+      "size": 298462
+    },
+    {
+      "path": "assets/spine/character/Celia/Masquerade_Bunny/char060403.atlas",
+      "size": 8739
+    },
+    {
+      "path": "assets/spine/character/Celia/Masquerade_Bunny/char060403.png",
+      "size": 1525140
+    },
+    {
+      "path": "assets/spine/character/Celia/Masquerade_Bunny/char060403.skel",
+      "size": 917116
+    },
+    {
+      "path": "assets/spine/character/Celia/The_Curse/char060401.atlas",
+      "size": 3110
+    },
+    {
+      "path": "assets/spine/character/Celia/The_Curse/char060401.png",
+      "size": 1347703
+    },
+    {
+      "path": "assets/spine/character/Celia/The_Curse/char060401.skel",
+      "size": 271561
+    },
+    {
+      "path": "assets/spine/character/Cynthia/Warmth_within_the_Severe_Cold/char063301.atlas",
+      "size": 2740
+    },
+    {
+      "path": "assets/spine/character/Cynthia/Warmth_within_the_Severe_Cold/char063301.png",
+      "size": 1508039
+    },
+    {
+      "path": "assets/spine/character/Cynthia/Warmth_within_the_Severe_Cold/char063301.skel",
+      "size": 292948
+    },
+    {
+      "path": "assets/spine/character/Dalvi/Bright_Moon/char061302.atlas",
+      "size": 13250
+    },
+    {
+      "path": "assets/spine/character/Dalvi/Bright_Moon/char061302.png",
+      "size": 2277759
+    },
+    {
+      "path": "assets/spine/character/Dalvi/Bright_Moon/char061302.skel",
+      "size": 1508086
+    },
+    {
+      "path": "assets/spine/character/Dalvi/Butterfly_Dream/char061392.atlas",
+      "size": 12631
+    },
+    {
+      "path": "assets/spine/character/Dalvi/Butterfly_Dream/char061392.png",
+      "size": 3280507
+    },
+    {
+      "path": "assets/spine/character/Dalvi/Butterfly_Dream/char061392.skel",
+      "size": 939738
+    },
+    {
+      "path": "assets/spine/character/Dalvi/Summer_Vacation/char061305.atlas",
+      "size": 8723
+    },
+    {
+      "path": "assets/spine/character/Dalvi/Summer_Vacation/char061305.png",
+      "size": 1024509
+    },
+    {
+      "path": "assets/spine/character/Dalvi/Summer_Vacation/char061305.skel",
+      "size": 731949
+    },
+    {
+      "path": "assets/spine/character/Dalvi/Tricky_Lover/char061306.atlas",
+      "size": 11752
+    },
+    {
+      "path": "assets/spine/character/Dalvi/Tricky_Lover/char061306.png",
+      "size": 1690200
+    },
+    {
+      "path": "assets/spine/character/Dalvi/Tricky_Lover/char061306.skel",
+      "size": 867943
+    },
+    {
+      "path": "assets/spine/character/Darian/Bittersweet_Bunny/char004002.atlas",
+      "size": 16437
+    },
+    {
+      "path": "assets/spine/character/Darian/Bittersweet_Bunny/char004002.png",
+      "size": 1558124
+    },
+    {
+      "path": "assets/spine/character/Darian/Bittersweet_Bunny/char004002.skel",
+      "size": 671736
+    },
+    {
+      "path": "assets/spine/character/Darian/Herald_of_Enlightenment/char004091.atlas",
+      "size": 7286
+    },
+    {
+      "path": "assets/spine/character/Darian/Herald_of_Enlightenment/char004091.png",
+      "size": 1804212
+    },
+    {
+      "path": "assets/spine/character/Darian/Herald_of_Enlightenment/char004091.skel",
+      "size": 716844
+    },
+    {
+      "path": "assets/spine/character/Darian/Prophetic_Dream/char004001.atlas",
+      "size": 10686
+    },
+    {
+      "path": "assets/spine/character/Darian/Prophetic_Dream/char004001.png",
+      "size": 1512747
+    },
+    {
+      "path": "assets/spine/character/Darian/Prophetic_Dream/char004001.skel",
+      "size": 2208296
+    },
+    {
+      "path": "assets/spine/character/Diana/Adventurer_of_the_Unknown/char002401.atlas",
+      "size": 2893
+    },
+    {
+      "path": "assets/spine/character/Diana/Adventurer_of_the_Unknown/char002401.png",
+      "size": 741001
+    },
+    {
+      "path": "assets/spine/character/Diana/Adventurer_of_the_Unknown/char002401.skel",
+      "size": 415349
+    },
+    {
+      "path": "assets/spine/character/Diana/Anti-Dystopia/char002406.atlas",
+      "size": 12151
+    },
+    {
+      "path": "assets/spine/character/Diana/Anti-Dystopia/char002406.png",
+      "size": 1970007
+    },
+    {
+      "path": "assets/spine/character/Diana/Anti-Dystopia/char002406.skel",
+      "size": 855731
+    },
+    {
+      "path": "assets/spine/character/Diana/Magical_Innovator/char002403.atlas",
+      "size": 10160
+    },
+    {
+      "path": "assets/spine/character/Diana/Magical_Innovator/char002403.png",
+      "size": 1888923
+    },
+    {
+      "path": "assets/spine/character/Diana/Magical_Innovator/char002403.skel",
+      "size": 446370
+    },
+    {
+      "path": "assets/spine/character/Eclipse/Beach_Vacation/char000707.atlas",
+      "size": 6563
+    },
+    {
+      "path": "assets/spine/character/Eclipse/Beach_Vacation/char000707.png",
+      "size": 1098873
+    },
+    {
+      "path": "assets/spine/character/Eclipse/Beach_Vacation/char000707.skel",
+      "size": 268459
+    },
+    {
+      "path": "assets/spine/character/Eclipse/Dimension_Witch/char000701.atlas",
+      "size": 5258
+    },
+    {
+      "path": "assets/spine/character/Eclipse/Dimension_Witch/char000701.png",
+      "size": 1650695
+    },
+    {
+      "path": "assets/spine/character/Eclipse/Dimension_Witch/char000701.skel",
+      "size": 244798
+    },
+    {
+      "path": "assets/spine/character/Eclipse/Dream_Bride/char000708.atlas",
+      "size": 11077
+    },
+    {
+      "path": "assets/spine/character/Eclipse/Dream_Bride/char000708.png",
+      "size": 1939014
+    },
+    {
+      "path": "assets/spine/character/Eclipse/Dream_Bride/char000708.skel",
+      "size": 486088
+    },
+    {
+      "path": "assets/spine/character/Eclipse/Nightmare_Bunny/char000706.atlas",
+      "size": 11145
+    },
+    {
+      "path": "assets/spine/character/Eclipse/Nightmare_Bunny/char000706.png",
+      "size": 2214867
+    },
+    {
+      "path": "assets/spine/character/Eclipse/Nightmare_Bunny/char000706.skel",
+      "size": 812282
+    },
+    {
+      "path": "assets/spine/character/Eleaneer/B-Rank_Idol/char061102.atlas",
+      "size": 6445
+    },
+    {
+      "path": "assets/spine/character/Eleaneer/B-Rank_Idol/char061102.png",
+      "size": 1009012
+    },
+    {
+      "path": "assets/spine/character/Eleaneer/B-Rank_Idol/char061102.skel",
+      "size": 262275
+    },
+    {
+      "path": "assets/spine/character/Eleaneer/Piercing_Magic_Bow/char061101.atlas",
+      "size": 4959
+    },
+    {
+      "path": "assets/spine/character/Eleaneer/Piercing_Magic_Bow/char061101.png",
+      "size": 2235209
+    },
+    {
+      "path": "assets/spine/character/Eleaneer/Piercing_Magic_Bow/char061101.skel",
+      "size": 249532
+    },
+    {
+      "path": "assets/spine/character/Eleaneer/Shadow_Bunny/char061103.atlas",
+      "size": 10380
+    },
+    {
+      "path": "assets/spine/character/Eleaneer/Shadow_Bunny/char061103.png",
+      "size": 1303957
+    },
+    {
+      "path": "assets/spine/character/Eleaneer/Shadow_Bunny/char061103.skel",
+      "size": 595134
+    },
+    {
+      "path": "assets/spine/character/Elise/Code_Name_O/char060802.atlas",
+      "size": 9935
+    },
+    {
+      "path": "assets/spine/character/Elise/Code_Name_O/char060802.png",
+      "size": 2205104
+    },
+    {
+      "path": "assets/spine/character/Elise/Code_Name_O/char060802.skel",
+      "size": 797807
+    },
+    {
+      "path": "assets/spine/character/Elise/Lovely_Lady/char060801.atlas",
+      "size": 4575
+    },
+    {
+      "path": "assets/spine/character/Elise/Lovely_Lady/char060801.png",
+      "size": 1352777
+    },
+    {
+      "path": "assets/spine/character/Elise/Lovely_Lady/char060801.skel",
+      "size": 198388
+    },
+    {
+      "path": "assets/spine/character/Elise/Naive_Lady/char060804.atlas",
+      "size": 11408
+    },
+    {
+      "path": "assets/spine/character/Elise/Naive_Lady/char060804.png",
+      "size": 1273643
+    },
+    {
+      "path": "assets/spine/character/Elise/Naive_Lady/char060804.skel",
+      "size": 635012
+    },
+    {
+      "path": "assets/spine/character/Elpis/Hand_of_Salvation/char003101.atlas",
+      "size": 5097
+    },
+    {
+      "path": "assets/spine/character/Elpis/Hand_of_Salvation/char003101.png",
+      "size": 874991
+    },
+    {
+      "path": "assets/spine/character/Elpis/Hand_of_Salvation/char003101.skel",
+      "size": 450624
+    },
+    {
+      "path": "assets/spine/character/Emma/Haggard_Delinquent/char101301.atlas",
+      "size": 3578
+    },
+    {
+      "path": "assets/spine/character/Emma/Haggard_Delinquent/char101301.png",
+      "size": 1246548
+    },
+    {
+      "path": "assets/spine/character/Emma/Haggard_Delinquent/char101301.skel",
+      "size": 199790
+    },
+    {
+      "path": "assets/spine/character/Emma/School_Queen/char101302.atlas",
+      "size": 3047
+    },
+    {
+      "path": "assets/spine/character/Emma/School_Queen/char101302.png",
+      "size": 1332033
+    },
+    {
+      "path": "assets/spine/character/Emma/School_Queen/char101302.skel",
+      "size": 183685
+    },
+    {
+      "path": "assets/spine/character/Eris/Esteemed_Adventurer/char020001.atlas",
+      "size": 7327
+    },
+    {
+      "path": "assets/spine/character/Eris/Esteemed_Adventurer/char020001.png",
+      "size": 1199979
+    },
+    {
+      "path": "assets/spine/character/Eris/Esteemed_Adventurer/char020001.skel",
+      "size": 471776
+    },
+    {
+      "path": "assets/spine/character/Eris/Your_Very_Own_Cat/char020002.atlas",
+      "size": 5772
+    },
+    {
+      "path": "assets/spine/character/Eris/Your_Very_Own_Cat/char020002.png",
+      "size": 848098
+    },
+    {
+      "path": "assets/spine/character/Eris/Your_Very_Own_Cat/char020002.skel",
+      "size": 477086
+    },
+    {
+      "path": "assets/spine/character/Glacia/Alice/char066902.atlas",
+      "size": 6252
+    },
+    {
+      "path": "assets/spine/character/Glacia/Alice/char066902.png",
+      "size": 2902445
+    },
+    {
+      "path": "assets/spine/character/Glacia/Alice/char066902.skel",
+      "size": 755240
+    },
+    {
+      "path": "assets/spine/character/Glacia/Disciplinary_Committee/char066906.atlas",
+      "size": 6806
+    },
+    {
+      "path": "assets/spine/character/Glacia/Disciplinary_Committee/char066906.png",
+      "size": 1104074
+    },
+    {
+      "path": "assets/spine/character/Glacia/Disciplinary_Committee/char066906.skel",
+      "size": 527695
+    },
+    {
+      "path": "assets/spine/character/Glacia/Heavenly_Guardian_Successor/char066907.atlas",
+      "size": 9232
+    },
+    {
+      "path": "assets/spine/character/Glacia/Heavenly_Guardian_Successor/char066907.png",
+      "size": 1825548
+    },
+    {
+      "path": "assets/spine/character/Glacia/Heavenly_Guardian_Successor/char066907.skel",
+      "size": 955846
+    },
+    {
+      "path": "assets/spine/character/Granadair/Queen_of_Gluttis/char067702.atlas",
+      "size": 13404
+    },
+    {
+      "path": "assets/spine/character/Granadair/Queen_of_Gluttis/char067702.png",
+      "size": 1204216
+    },
+    {
+      "path": "assets/spine/character/Granadair/Queen_of_Gluttis/char067702.skel",
+      "size": 696692
+    },
+    {
+      "path": "assets/spine/character/Granadair/Shrine_Maiden_of_Purification/char067701.atlas",
+      "size": 11235
+    },
+    {
+      "path": "assets/spine/character/Granadair/Shrine_Maiden_of_Purification/char067701.png",
+      "size": 1263055
+    },
+    {
+      "path": "assets/spine/character/Granadair/Shrine_Maiden_of_Purification/char067701.skel",
+      "size": 562938
+    },
+    {
+      "path": "assets/spine/character/Granhildr/Boo_Ghost/char067103.atlas",
+      "size": 8351
+    },
+    {
+      "path": "assets/spine/character/Granhildr/Boo_Ghost/char067103.png",
+      "size": 1723540
+    },
+    {
+      "path": "assets/spine/character/Granhildr/Boo_Ghost/char067103.skel",
+      "size": 654682
+    },
+    {
+      "path": "assets/spine/character/Granhildr/Combat_Medic/char067104.atlas",
+      "size": 8804
+    },
+    {
+      "path": "assets/spine/character/Granhildr/Combat_Medic/char067104.png",
+      "size": 1378433
+    },
+    {
+      "path": "assets/spine/character/Granhildr/Combat_Medic/char067104.skel",
+      "size": 922075
+    },
+    {
+      "path": "assets/spine/character/Granhildr/Comeback_Idol/char067102.atlas",
+      "size": 13499
+    },
+    {
+      "path": "assets/spine/character/Granhildr/Comeback_Idol/char067102.png",
+      "size": 1353823
+    },
+    {
+      "path": "assets/spine/character/Granhildr/Comeback_Idol/char067102.skel",
+      "size": 530892
+    },
+    {
+      "path": "assets/spine/character/Granhildr/The_Void/char067101.atlas",
+      "size": 9088
+    },
+    {
+      "path": "assets/spine/character/Granhildr/The_Void/char067101.png",
+      "size": 4361578
+    },
+    {
+      "path": "assets/spine/character/Granhildr/The_Void/char067101.skel",
+      "size": 1225154
+    },
+    {
+      "path": "assets/spine/character/Helena/B-Rank_Idol/char061002.atlas",
+      "size": 5726
+    },
+    {
+      "path": "assets/spine/character/Helena/B-Rank_Idol/char061002.png",
+      "size": 1127771
+    },
+    {
+      "path": "assets/spine/character/Helena/B-Rank_Idol/char061002.skel",
+      "size": 314508
+    },
+    {
+      "path": "assets/spine/character/Helena/Rising_Star/char061092.atlas",
+      "size": 6549
+    },
+    {
+      "path": "assets/spine/character/Helena/Rising_Star/char061092.png",
+      "size": 955235
+    },
+    {
+      "path": "assets/spine/character/Helena/Rising_Star/char061092.skel",
+      "size": 412986
+    },
+    {
+      "path": "assets/spine/character/Helena/Sunny_Inn_Hand/char061003.atlas",
+      "size": 10891
+    },
+    {
+      "path": "assets/spine/character/Helena/Sunny_Inn_Hand/char061003.png",
+      "size": 1696481
+    },
+    {
+      "path": "assets/spine/character/Helena/Sunny_Inn_Hand/char061003.skel",
+      "size": 1111346
+    },
+    {
+      "path": "assets/spine/character/Helena/Top_Idol/char061001.atlas",
+      "size": 4882
+    },
+    {
+      "path": "assets/spine/character/Helena/Top_Idol/char061001.png",
+      "size": 1166527
+    },
+    {
+      "path": "assets/spine/character/Helena/Top_Idol/char061001.skel",
+      "size": 303601
+    },
+    {
+      "path": "assets/spine/character/High_Elf_Archer/Daughter_of_Starwind/char020801.atlas",
+      "size": 7249
+    },
+    {
+      "path": "assets/spine/character/High_Elf_Archer/Daughter_of_Starwind/char020801.png",
+      "size": 1535188
+    },
+    {
+      "path": "assets/spine/character/High_Elf_Archer/Daughter_of_Starwind/char020801.skel",
+      "size": 334942
+    },
+    {
+      "path": "assets/spine/character/Hikage/Kind_Ruthlessness/char020501.atlas",
+      "size": 5640
+    },
+    {
+      "path": "assets/spine/character/Hikage/Kind_Ruthlessness/char020501.png",
+      "size": 732204
+    },
+    {
+      "path": "assets/spine/character/Hikage/Kind_Ruthlessness/char020501.skel",
+      "size": 322941
+    },
+    {
+      "path": "assets/spine/character/Ikaruga/Noble_Flame/char021001.atlas",
+      "size": 3723
+    },
+    {
+      "path": "assets/spine/character/Ikaruga/Noble_Flame/char021001.png",
+      "size": 1004361
+    },
+    {
+      "path": "assets/spine/character/Ikaruga/Noble_Flame/char021001.skel",
+      "size": 277454
+    },
+    {
+      "path": "assets/spine/character/Ingrid/Kardis'_Bullet/char063001.atlas",
+      "size": 3384
+    },
+    {
+      "path": "assets/spine/character/Ingrid/Kardis'_Bullet/char063001.png",
+      "size": 1053977
+    },
+    {
+      "path": "assets/spine/character/Ingrid/Kardis'_Bullet/char063001.skel",
+      "size": 277241
+    },
+    {
+      "path": "assets/spine/character/Julie/Healer/char063401.atlas",
+      "size": 2664
+    },
+    {
+      "path": "assets/spine/character/Julie/Healer/char063401.png",
+      "size": 824595
+    },
+    {
+      "path": "assets/spine/character/Julie/Healer/char063401.skel",
+      "size": 193217
+    },
+    {
+      "path": "assets/spine/character/Justia/Blood_Glutton/char000203.atlas",
+      "size": 5926
+    },
+    {
+      "path": "assets/spine/character/Justia/Blood_Glutton/char000203.png",
+      "size": 1253692
+    },
+    {
+      "path": "assets/spine/character/Justia/Blood_Glutton/char000203.skel",
+      "size": 347698
+    },
+    {
+      "path": "assets/spine/character/Justia/Hot_Summer_Dream/char000296.atlas",
+      "size": 15064
+    },
+    {
+      "path": "assets/spine/character/Justia/Hot_Summer_Dream/char000296.png",
+      "size": 2019608
+    },
+    {
+      "path": "assets/spine/character/Justia/Hot_Summer_Dream/char000296.skel",
+      "size": 892710
+    },
+    {
+      "path": "assets/spine/character/Justia/Kendo_Club/char000204.atlas",
+      "size": 6958
+    },
+    {
+      "path": "assets/spine/character/Justia/Kendo_Club/char000204.png",
+      "size": 2269627
+    },
+    {
+      "path": "assets/spine/character/Justia/Kendo_Club/char000204.skel",
+      "size": 420451
+    },
+    {
+      "path": "assets/spine/character/Justia/Knight_of_Blood/char000201.atlas",
+      "size": 2031
+    },
+    {
+      "path": "assets/spine/character/Justia/Knight_of_Blood/char000201.png",
+      "size": 1457971
+    },
+    {
+      "path": "assets/spine/character/Justia/Knight_of_Blood/char000201.skel",
+      "size": 323454
+    },
+    {
+      "path": "assets/spine/character/Justia/Pool_Party/char000206.atlas",
+      "size": 6835
+    },
+    {
+      "path": "assets/spine/character/Justia/Pool_Party/char000206.png",
+      "size": 1822973
+    },
+    {
+      "path": "assets/spine/character/Justia/Pool_Party/char000206.skel",
+      "size": 488873
+    },
+    {
+      "path": "assets/spine/character/Justia/White_Reaper/char000202.atlas",
+      "size": 5300
+    },
+    {
+      "path": "assets/spine/character/Justia/White_Reaper/char000202.png",
+      "size": 2069435
+    },
+    {
+      "path": "assets/spine/character/Justia/White_Reaper/char000202.skel",
+      "size": 318275
+    },
+    {
+      "path": "assets/spine/character/Layla/Anvil_of_Creation/char003001.atlas",
+      "size": 5417
+    },
+    {
+      "path": "assets/spine/character/Layla/Anvil_of_Creation/char003001.png",
+      "size": 1550688
+    },
+    {
+      "path": "assets/spine/character/Layla/Anvil_of_Creation/char003001.skel",
+      "size": 665822
+    },
+    {
+      "path": "assets/spine/character/Lecliss/Android_Queen/char060602.atlas",
+      "size": 7821
+    },
+    {
+      "path": "assets/spine/character/Lecliss/Android_Queen/char060602.png",
+      "size": 2953366
+    },
+    {
+      "path": "assets/spine/character/Lecliss/Android_Queen/char060602.skel",
+      "size": 589301
+    },
+    {
+      "path": "assets/spine/character/Lecliss/Killer_Doll/char060601.atlas",
+      "size": 5669
+    },
+    {
+      "path": "assets/spine/character/Lecliss/Killer_Doll/char060601.png",
+      "size": 2597139
+    },
+    {
+      "path": "assets/spine/character/Lecliss/Killer_Doll/char060601.skel",
+      "size": 290145
+    },
+    {
+      "path": "assets/spine/character/Levia/Night_of_Jealousy/char067302.atlas",
+      "size": 7952
+    },
+    {
+      "path": "assets/spine/character/Levia/Night_of_Jealousy/char067302.png",
+      "size": 4555227
+    },
+    {
+      "path": "assets/spine/character/Levia/Night_of_Jealousy/char067302.skel",
+      "size": 793870
+    },
+    {
+      "path": "assets/spine/character/Levia/Overheat/char067303.atlas",
+      "size": 8350
+    },
+    {
+      "path": "assets/spine/character/Levia/Overheat/char067303.png",
+      "size": 1568558
+    },
+    {
+      "path": "assets/spine/character/Levia/Overheat/char067303.skel",
+      "size": 904926
+    },
+    {
+      "path": "assets/spine/character/Levia/Track_and_Field_Captain/char067301.atlas",
+      "size": 4686
+    },
+    {
+      "path": "assets/spine/character/Levia/Track_and_Field_Captain/char067301.png",
+      "size": 1010611
+    },
+    {
+      "path": "assets/spine/character/Levia/Track_and_Field_Captain/char067301.skel",
+      "size": 237003
+    },
+    {
+      "path": "assets/spine/character/Liatris/Maid_Name_R/char001207.atlas",
+      "size": 6220
+    },
+    {
+      "path": "assets/spine/character/Liatris/Maid_Name_R/char001207.png",
+      "size": 1035211
+    },
+    {
+      "path": "assets/spine/character/Liatris/Maid_Name_R/char001207.skel",
+      "size": 427067
+    },
+    {
+      "path": "assets/spine/character/Liatris/Neon_Stalker/char001206.atlas",
+      "size": 4484
+    },
+    {
+      "path": "assets/spine/character/Liatris/Neon_Stalker/char001206.png",
+      "size": 964698
+    },
+    {
+      "path": "assets/spine/character/Liatris/Neon_Stalker/char001206.skel",
+      "size": 225342
+    },
+    {
+      "path": "assets/spine/character/Liatris/Rodev's_Star/char001201.atlas",
+      "size": 6177
+    },
+    {
+      "path": "assets/spine/character/Liatris/Rodev's_Star/char001201.png",
+      "size": 1622327
+    },
+    {
+      "path": "assets/spine/character/Liatris/Rodev's_Star/char001201.skel",
+      "size": 328529
+    },
+    {
+      "path": "assets/spine/character/Liberta/Dark_Saintess/char003801.atlas",
+      "size": 10000
+    },
+    {
+      "path": "assets/spine/character/Liberta/Dark_Saintess/char003801.png",
+      "size": 1412574
+    },
+    {
+      "path": "assets/spine/character/Liberta/Dark_Saintess/char003801.skel",
+      "size": 1295955
+    },
+    {
+      "path": "assets/spine/character/Liberta/Hedonist/char003892.atlas",
+      "size": 10089
+    },
+    {
+      "path": "assets/spine/character/Liberta/Hedonist/char003892.png",
+      "size": 1327111
+    },
+    {
+      "path": "assets/spine/character/Liberta/Hedonist/char003892.skel",
+      "size": 590045
+    },
+    {
+      "path": "assets/spine/character/Liberta/Miracle_Rose/char003803.atlas",
+      "size": 26940
+    },
+    {
+      "path": "assets/spine/character/Liberta/Miracle_Rose/char003803.png",
+      "size": 3113570
+    },
+    {
+      "path": "assets/spine/character/Liberta/Miracle_Rose/char003803.skel",
+      "size": 1407513
+    },
+    {
+      "path": "assets/spine/character/Liberta/Onsen_Manager/char003802.atlas",
+      "size": 10055
+    },
+    {
+      "path": "assets/spine/character/Liberta/Onsen_Manager/char003802.png",
+      "size": 1030136
+    },
+    {
+      "path": "assets/spine/character/Liberta/Onsen_Manager/char003802.skel",
+      "size": 572263
+    },
+    {
+      "path": "assets/spine/character/Lisianne/Wandering_Priest/char100301.atlas",
+      "size": 2294
+    },
+    {
+      "path": "assets/spine/character/Lisianne/Wandering_Priest/char100301.png",
+      "size": 1287097
+    },
+    {
+      "path": "assets/spine/character/Lisianne/Wandering_Priest/char100301.skel",
+      "size": 363442
+    },
+    {
+      "path": "assets/spine/character/Loen/Celebrity_Bunny/char003203.atlas",
+      "size": 14895
+    },
+    {
+      "path": "assets/spine/character/Loen/Celebrity_Bunny/char003203.png",
+      "size": 1678920
+    },
+    {
+      "path": "assets/spine/character/Loen/Celebrity_Bunny/char003203.skel",
+      "size": 609473
+    },
+    {
+      "path": "assets/spine/character/Loen/Last_Hope/char003201.atlas",
+      "size": 6178
+    },
+    {
+      "path": "assets/spine/character/Loen/Last_Hope/char003201.png",
+      "size": 1075763
+    },
+    {
+      "path": "assets/spine/character/Loen/Last_Hope/char003201.skel",
+      "size": 660434
+    },
+    {
+      "path": "assets/spine/character/Loen/Track_and_Field_Team/char003202.atlas",
+      "size": 6311
+    },
+    {
+      "path": "assets/spine/character/Loen/Track_and_Field_Team/char003202.png",
+      "size": 998975
+    },
+    {
+      "path": "assets/spine/character/Loen/Track_and_Field_Team/char003202.skel",
+      "size": 620727
+    },
+    {
+      "path": "assets/spine/character/Lucrezia/Seductive_Wings/char100601.atlas",
+      "size": 4272
+    },
+    {
+      "path": "assets/spine/character/Lucrezia/Seductive_Wings/char100601.png",
+      "size": 1332188
+    },
+    {
+      "path": "assets/spine/character/Lucrezia/Seductive_Wings/char100601.skel",
+      "size": 177146
+    },
+    {
+      "path": "assets/spine/character/Luvencia/Deal_Snatcher/char067502.atlas",
+      "size": 5933
+    },
+    {
+      "path": "assets/spine/character/Luvencia/Deal_Snatcher/char067502.png",
+      "size": 1818646
+    },
+    {
+      "path": "assets/spine/character/Luvencia/Deal_Snatcher/char067502.skel",
+      "size": 241330
+    },
+    {
+      "path": "assets/spine/character/Luvencia/Ocean_Vanguard/char067504.atlas",
+      "size": 6775
+    },
+    {
+      "path": "assets/spine/character/Luvencia/Ocean_Vanguard/char067504.png",
+      "size": 1716773
+    },
+    {
+      "path": "assets/spine/character/Luvencia/Ocean_Vanguard/char067504.skel",
+      "size": 499141
+    },
+    {
+      "path": "assets/spine/character/Luvencia/Wild_Dog/char067503.atlas",
+      "size": 7196
+    },
+    {
+      "path": "assets/spine/character/Luvencia/Wild_Dog/char067503.png",
+      "size": 2072208
+    },
+    {
+      "path": "assets/spine/character/Luvencia/Wild_Dog/char067503.skel",
+      "size": 950242
+    },
+    {
+      "path": "assets/spine/character/Lydia/Apprentice_Spearman/char103301.atlas",
+      "size": 2341
+    },
+    {
+      "path": "assets/spine/character/Lydia/Apprentice_Spearman/char103301.png",
+      "size": 864294
+    },
+    {
+      "path": "assets/spine/character/Lydia/Apprentice_Spearman/char103301.skel",
+      "size": 121934
+    },
+    {
+      "path": "assets/spine/character/Mamonir/Miracle_Marine/char067803.atlas",
+      "size": 20728
+    },
+    {
+      "path": "assets/spine/character/Mamonir/Miracle_Marine/char067803.png",
+      "size": 3677783
+    },
+    {
+      "path": "assets/spine/character/Mamonir/Miracle_Marine/char067803.skel",
+      "size": 1522282
+    },
+    {
+      "path": "assets/spine/character/Mamonir/Night_of_Death/char067801.atlas",
+      "size": 17256
+    },
+    {
+      "path": "assets/spine/character/Mamonir/Night_of_Death/char067801.png",
+      "size": 3100906
+    },
+    {
+      "path": "assets/spine/character/Mamonir/Night_of_Death/char067801.skel",
+      "size": 1270473
+    },
+    {
+      "path": "assets/spine/character/Maria/Archmage/char103601.atlas",
+      "size": 3763
+    },
+    {
+      "path": "assets/spine/character/Maria/Archmage/char103601.png",
+      "size": 1282646
+    },
+    {
+      "path": "assets/spine/character/Maria/Archmage/char103601.skel",
+      "size": 329407
+    },
+    {
+      "path": "assets/spine/character/Michaela/Acting_Archbishop/char067403.atlas",
+      "size": 5596
+    },
+    {
+      "path": "assets/spine/character/Michaela/Acting_Archbishop/char067403.png",
+      "size": 1497471
+    },
+    {
+      "path": "assets/spine/character/Michaela/Acting_Archbishop/char067403.skel",
+      "size": 584706
+    },
+    {
+      "path": "assets/spine/character/Michaela/Beachside_Justice/char067401.atlas",
+      "size": 5223
+    },
+    {
+      "path": "assets/spine/character/Michaela/Beachside_Justice/char067401.png",
+      "size": 2321278
+    },
+    {
+      "path": "assets/spine/character/Michaela/Beachside_Justice/char067401.skel",
+      "size": 622299
+    },
+    {
+      "path": "assets/spine/character/Michaela/Queen_of_Signatures/char067402.atlas",
+      "size": 4740
+    },
+    {
+      "path": "assets/spine/character/Michaela/Queen_of_Signatures/char067402.png",
+      "size": 1412950
+    },
+    {
+      "path": "assets/spine/character/Michaela/Queen_of_Signatures/char067402.skel",
+      "size": 459716
+    },
+    {
+      "path": "assets/spine/character/Michaela/True_Liberation/char067491.atlas",
+      "size": 9871
+    },
+    {
+      "path": "assets/spine/character/Michaela/True_Liberation/char067491.png",
+      "size": 1723683
+    },
+    {
+      "path": "assets/spine/character/Michaela/True_Liberation/char067491.skel",
+      "size": 511261
+    },
+    {
+      "path": "assets/spine/character/Morpeah/Apostle/char003403.atlas",
+      "size": 12050
+    },
+    {
+      "path": "assets/spine/character/Morpeah/Apostle/char003403.png",
+      "size": 1219962
+    },
+    {
+      "path": "assets/spine/character/Morpeah/Apostle/char003403.skel",
+      "size": 2039886
+    },
+    {
+      "path": "assets/spine/character/Morpeah/Apostle/char003403_2.png",
+      "size": 32888
+    },
+    {
+      "path": "assets/spine/character/Morpeah/Beach_Vacation/char003401.atlas",
+      "size": 7170
+    },
+    {
+      "path": "assets/spine/character/Morpeah/Beach_Vacation/char003401.png",
+      "size": 1112245
+    },
+    {
+      "path": "assets/spine/character/Morpeah/Beach_Vacation/char003401.skel",
+      "size": 277514
+    },
+    {
+      "path": "assets/spine/character/Morpeah/Daydream_Bunny/char003402.atlas",
+      "size": 13757
+    },
+    {
+      "path": "assets/spine/character/Morpeah/Daydream_Bunny/char003402.png",
+      "size": 1919257
+    },
+    {
+      "path": "assets/spine/character/Morpeah/Daydream_Bunny/char003402.skel",
+      "size": 2877348
+    },
+    {
+      "path": "assets/spine/character/Nebris/Labyrinth_Gatekeeper/char003301.atlas",
+      "size": 4210
+    },
+    {
+      "path": "assets/spine/character/Nebris/Labyrinth_Gatekeeper/char003301.png",
+      "size": 848326
+    },
+    {
+      "path": "assets/spine/character/Nebris/Labyrinth_Gatekeeper/char003301.skel",
+      "size": 258471
+    },
+    {
+      "path": "assets/spine/character/Nebris/Laid-back_Lifeguard/char003302.atlas",
+      "size": 12448
+    },
+    {
+      "path": "assets/spine/character/Nebris/Laid-back_Lifeguard/char003302.png",
+      "size": 1091417
+    },
+    {
+      "path": "assets/spine/character/Nebris/Laid-back_Lifeguard/char003302.skel",
+      "size": 893490
+    },
+    {
+      "path": "assets/spine/character/Nebris/Lucky_Bikini/char003392.atlas",
+      "size": 9918
+    },
+    {
+      "path": "assets/spine/character/Nebris/Lucky_Bikini/char003392.png",
+      "size": 2183901
+    },
+    {
+      "path": "assets/spine/character/Nebris/Lucky_Bikini/char003392.skel",
+      "size": 675323
+    },
+    {
+      "path": "assets/spine/character/Nebris/New_Hire/char003303.atlas",
+      "size": 14968
+    },
+    {
+      "path": "assets/spine/character/Nebris/New_Hire/char003303.png",
+      "size": 1126774
+    },
+    {
+      "path": "assets/spine/character/Nebris/New_Hire/char003303.skel",
+      "size": 901222
+    },
+    {
+      "path": "assets/spine/character/Nekyndalia/Deadeye/char004301.atlas",
+      "size": 12052
+    },
+    {
+      "path": "assets/spine/character/Nekyndalia/Deadeye/char004301.png",
+      "size": 1055174
+    },
+    {
+      "path": "assets/spine/character/Nekyndalia/Deadeye/char004301.skel",
+      "size": 857597
+    },
+    {
+      "path": "assets/spine/character/Olivier/Apostle/char003602.atlas",
+      "size": 9224
+    },
+    {
+      "path": "assets/spine/character/Olivier/Apostle/char003602.png",
+      "size": 1142590
+    },
+    {
+      "path": "assets/spine/character/Olivier/Apostle/char003602.skel",
+      "size": 701001
+    },
+    {
+      "path": "assets/spine/character/Olivier/Faithful_Wings/char003601.atlas",
+      "size": 16552
+    },
+    {
+      "path": "assets/spine/character/Olivier/Faithful_Wings/char003601.png",
+      "size": 3402857
+    },
+    {
+      "path": "assets/spine/character/Olivier/Faithful_Wings/char003601.skel",
+      "size": 1072634
+    },
+    {
+      "path": "assets/spine/character/Olivier/Fallen_Wings/char003603.atlas",
+      "size": 6098
+    },
+    {
+      "path": "assets/spine/character/Olivier/Fallen_Wings/char003603.png",
+      "size": 1540841
+    },
+    {
+      "path": "assets/spine/character/Olivier/Fallen_Wings/char003603.skel",
+      "size": 542988
+    },
+    {
+      "path": "assets/spine/character/Olivier/Retired_Legend/char003604.atlas",
+      "size": 10023
+    },
+    {
+      "path": "assets/spine/character/Olivier/Retired_Legend/char003604.png",
+      "size": 1710499
+    },
+    {
+      "path": "assets/spine/character/Olivier/Retired_Legend/char003604.skel",
+      "size": 1420284
+    },
+    {
+      "path": "assets/spine/character/Palette/Miracle_Violet/char004202.atlas",
+      "size": 20689
+    },
+    {
+      "path": "assets/spine/character/Palette/Miracle_Violet/char004202.png",
+      "size": 3211101
+    },
+    {
+      "path": "assets/spine/character/Palette/Miracle_Violet/char004202.skel",
+      "size": 2338035
+    },
+    {
+      "path": "assets/spine/character/Palette/Shattered_Dream/char004201.atlas",
+      "size": 14270
+    },
+    {
+      "path": "assets/spine/character/Palette/Shattered_Dream/char004201.png",
+      "size": 3813643
+    },
+    {
+      "path": "assets/spine/character/Palette/Shattered_Dream/char004201.skel",
+      "size": 993729
+    },
+    {
+      "path": "assets/spine/character/Priestess/Earth_Mother_Believer/char020701.atlas",
+      "size": 4803
+    },
+    {
+      "path": "assets/spine/character/Priestess/Earth_Mother_Believer/char020701.png",
+      "size": 1506183
+    },
+    {
+      "path": "assets/spine/character/Priestess/Earth_Mother_Believer/char020701.skel",
+      "size": 466252
+    },
+    {
+      "path": "assets/spine/character/Rafina/Code_Name_A/char060702.atlas",
+      "size": 3139
+    },
+    {
+      "path": "assets/spine/character/Rafina/Code_Name_A/char060702.png",
+      "size": 2189004
+    },
+    {
+      "path": "assets/spine/character/Rafina/Code_Name_A/char060702.skel",
+      "size": 265653
+    },
+    {
+      "path": "assets/spine/character/Rafina/Game_Club/char060706.atlas",
+      "size": 6592
+    },
+    {
+      "path": "assets/spine/character/Rafina/Game_Club/char060706.png",
+      "size": 1042892
+    },
+    {
+      "path": "assets/spine/character/Rafina/Game_Club/char060706.skel",
+      "size": 582846
+    },
+    {
+      "path": "assets/spine/character/Rafina/Steel_Engine/char060701.atlas",
+      "size": 5410
+    },
+    {
+      "path": "assets/spine/character/Rafina/Steel_Engine/char060701.png",
+      "size": 2280298
+    },
+    {
+      "path": "assets/spine/character/Rafina/Steel_Engine/char060701.skel",
+      "size": 205619
+    },
+    {
+      "path": "assets/spine/character/Refithea/Poolside_Fairy/char066803.atlas",
+      "size": 9610
+    },
+    {
+      "path": "assets/spine/character/Refithea/Poolside_Fairy/char066803.png",
+      "size": 1502928
+    },
+    {
+      "path": "assets/spine/character/Refithea/Poolside_Fairy/char066803.skel",
+      "size": 512163
+    },
+    {
+      "path": "assets/spine/character/Refithea/Pure_White_Blessing/char066802.atlas",
+      "size": 6332
+    },
+    {
+      "path": "assets/spine/character/Refithea/Pure_White_Blessing/char066802.png",
+      "size": 1716606
+    },
+    {
+      "path": "assets/spine/character/Refithea/Pure_White_Blessing/char066802.skel",
+      "size": 592335
+    },
+    {
+      "path": "assets/spine/character/Refithea/Pure_White_Blessing/char066802_c.atlas",
+      "size": 7427
+    },
+    {
+      "path": "assets/spine/character/Refithea/Pure_White_Blessing/char066802_c.png",
+      "size": 2088872
+    },
+    {
+      "path": "assets/spine/character/Refithea/Pure_White_Blessing/char066802_c.skel",
+      "size": 553275
+    },
+    {
+      "path": "assets/spine/character/Refithea/The_Gluttonous/char066801.atlas",
+      "size": 11037
+    },
+    {
+      "path": "assets/spine/character/Refithea/The_Gluttonous/char066801.png",
+      "size": 1063145
+    },
+    {
+      "path": "assets/spine/character/Refithea/The_Gluttonous/char066801.skel",
+      "size": 1092751
+    },
+    {
+      "path": "assets/spine/character/Rigenette/Little_Hunter/char103401.atlas",
+      "size": 2740
+    },
+    {
+      "path": "assets/spine/character/Rigenette/Little_Hunter/char103401.png",
+      "size": 683272
+    },
+    {
+      "path": "assets/spine/character/Rigenette/Little_Hunter/char103401.skel",
+      "size": 136818
+    },
+    {
+      "path": "assets/spine/character/Rou/Nature's_Claw/char000504.atlas",
+      "size": 6916
+    },
+    {
+      "path": "assets/spine/character/Rou/Nature's_Claw/char000504.png",
+      "size": 2546362
+    },
+    {
+      "path": "assets/spine/character/Rou/Nature's_Claw/char000504.skel",
+      "size": 700581
+    },
+    {
+      "path": "assets/spine/character/Rou/Red_Riding_Hood/char000502.atlas",
+      "size": 8869
+    },
+    {
+      "path": "assets/spine/character/Rou/Red_Riding_Hood/char000502.png",
+      "size": 1529671
+    },
+    {
+      "path": "assets/spine/character/Rou/Red_Riding_Hood/char000502.skel",
+      "size": 507279
+    },
+    {
+      "path": "assets/spine/character/Rou/Red_Riding_Hood/char000502_c.atlas",
+      "size": 8969
+    },
+    {
+      "path": "assets/spine/character/Rou/Red_Riding_Hood/char000502_c.png",
+      "size": 1554333
+    },
+    {
+      "path": "assets/spine/character/Rou/Red_Riding_Hood/char000502_c.skel",
+      "size": 479387
+    },
+    {
+      "path": "assets/spine/character/Rou/Stray_Cat/char000506.atlas",
+      "size": 17492
+    },
+    {
+      "path": "assets/spine/character/Rou/Stray_Cat/char000506.png",
+      "size": 3665900
+    },
+    {
+      "path": "assets/spine/character/Rou/Stray_Cat/char000506.skel",
+      "size": 1137817
+    },
+    {
+      "path": "assets/spine/character/Rou/White_Cat/char000501.atlas",
+      "size": 2618
+    },
+    {
+      "path": "assets/spine/character/Rou/White_Cat/char000501.png",
+      "size": 1229395
+    },
+    {
+      "path": "assets/spine/character/Rou/White_Cat/char000501.skel",
+      "size": 359322
+    },
+    {
+      "path": "assets/spine/character/Roxy/Emerging_Desire/char020102.atlas",
+      "size": 5592
+    },
+    {
+      "path": "assets/spine/character/Roxy/Emerging_Desire/char020102.png",
+      "size": 669131
+    },
+    {
+      "path": "assets/spine/character/Roxy/Emerging_Desire/char020102.skel",
+      "size": 354662
+    },
+    {
+      "path": "assets/spine/character/Roxy/Respected_Master/char020101.atlas",
+      "size": 4794
+    },
+    {
+      "path": "assets/spine/character/Roxy/Respected_Master/char020101.png",
+      "size": 1051239
+    },
+    {
+      "path": "assets/spine/character/Roxy/Respected_Master/char020101.skel",
+      "size": 429517
+    },
+    {
+      "path": "assets/spine/character/Rubia/Maid_Bikini/char000807.atlas",
+      "size": 10332
+    },
+    {
+      "path": "assets/spine/character/Rubia/Maid_Bikini/char000807.png",
+      "size": 1020534
+    },
+    {
+      "path": "assets/spine/character/Rubia/Maid_Bikini/char000807.skel",
+      "size": 484062
+    },
+    {
+      "path": "assets/spine/character/Rubia/Maid_Name_C/char000806.atlas",
+      "size": 6257
+    },
+    {
+      "path": "assets/spine/character/Rubia/Maid_Name_C/char000806.png",
+      "size": 1127644
+    },
+    {
+      "path": "assets/spine/character/Rubia/Maid_Name_C/char000806.skel",
+      "size": 474301
+    },
+    {
+      "path": "assets/spine/character/Rubia/The_Empress_of_the_Ocean/char000804.atlas",
+      "size": 4889
+    },
+    {
+      "path": "assets/spine/character/Rubia/The_Empress_of_the_Ocean/char000804.png",
+      "size": 1890556
+    },
+    {
+      "path": "assets/spine/character/Rubia/The_Empress_of_the_Ocean/char000804.skel",
+      "size": 311496
+    },
+    {
+      "path": "assets/spine/character/Rubia/Thorn_of_the_Desert/char000801.atlas",
+      "size": 6194
+    },
+    {
+      "path": "assets/spine/character/Rubia/Thorn_of_the_Desert/char000801.png",
+      "size": 2476669
+    },
+    {
+      "path": "assets/spine/character/Rubia/Thorn_of_the_Desert/char000801.skel",
+      "size": 395165
+    },
+    {
+      "path": "assets/spine/character/Sacred_Justia/Reclaimed_Destiny/char003501.atlas",
+      "size": 10411
+    },
+    {
+      "path": "assets/spine/character/Sacred_Justia/Reclaimed_Destiny/char003501.png",
+      "size": 2090407
+    },
+    {
+      "path": "assets/spine/character/Sacred_Justia/Reclaimed_Destiny/char003501.skel",
+      "size": 1885912
+    },
+    {
+      "path": "assets/spine/character/Samay/Kind_Liberator/char101401.atlas",
+      "size": 2875
+    },
+    {
+      "path": "assets/spine/character/Samay/Kind_Liberator/char101401.png",
+      "size": 1617880
+    },
+    {
+      "path": "assets/spine/character/Samay/Kind_Liberator/char101401.skel",
+      "size": 284851
+    },
+    {
+      "path": "assets/spine/character/Samay/Kind_Student/char101402.atlas",
+      "size": 3341
+    },
+    {
+      "path": "assets/spine/character/Samay/Kind_Student/char101402.png",
+      "size": 1272554
+    },
+    {
+      "path": "assets/spine/character/Samay/Kind_Student/char101402.skel",
+      "size": 192788
+    },
+    {
+      "path": "assets/spine/character/Scheherazade/Code_Name_S/char000304.atlas",
+      "size": 5454
+    },
+    {
+      "path": "assets/spine/character/Scheherazade/Code_Name_S/char000304.png",
+      "size": 1703534
+    },
+    {
+      "path": "assets/spine/character/Scheherazade/Code_Name_S/char000304.skel",
+      "size": 295747
+    },
+    {
+      "path": "assets/spine/character/Scheherazade/Deliberate_Ace/char000396.atlas",
+      "size": 10339
+    },
+    {
+      "path": "assets/spine/character/Scheherazade/Deliberate_Ace/char000396.png",
+      "size": 1198032
+    },
+    {
+      "path": "assets/spine/character/Scheherazade/Deliberate_Ace/char000396.skel",
+      "size": 646609
+    },
+    {
+      "path": "assets/spine/character/Scheherazade/Pool_Party/char000306.atlas",
+      "size": 12705
+    },
+    {
+      "path": "assets/spine/character/Scheherazade/Pool_Party/char000306.png",
+      "size": 2103109
+    },
+    {
+      "path": "assets/spine/character/Scheherazade/Pool_Party/char000306.skel",
+      "size": 656360
+    },
+    {
+      "path": "assets/spine/character/Scheherazade/The_Lapis_Witch/char000301.atlas",
+      "size": 2087
+    },
+    {
+      "path": "assets/spine/character/Scheherazade/The_Lapis_Witch/char000301.png",
+      "size": 1116296
+    },
+    {
+      "path": "assets/spine/character/Scheherazade/The_Lapis_Witch/char000301.skel",
+      "size": 298643
+    },
+    {
+      "path": "assets/spine/character/Scheherazade/The_Magic_School_Professor/char000303.atlas",
+      "size": 5995
+    },
+    {
+      "path": "assets/spine/character/Scheherazade/The_Magic_School_Professor/char000303.png",
+      "size": 2180720
+    },
+    {
+      "path": "assets/spine/character/Scheherazade/The_Magic_School_Professor/char000303.skel",
+      "size": 437011
+    },
+    {
+      "path": "assets/spine/character/Seir/B-Rank_Idol/char101102.atlas",
+      "size": 6643
+    },
+    {
+      "path": "assets/spine/character/Seir/B-Rank_Idol/char101102.png",
+      "size": 1126701
+    },
+    {
+      "path": "assets/spine/character/Seir/B-Rank_Idol/char101102.skel",
+      "size": 409927
+    },
+    {
+      "path": "assets/spine/character/Seir/B-Rank_Idol/char101102_c.atlas",
+      "size": 6792
+    },
+    {
+      "path": "assets/spine/character/Seir/B-Rank_Idol/char101102_c.png",
+      "size": 1146520
+    },
+    {
+      "path": "assets/spine/character/Seir/B-Rank_Idol/char101102_c.skel",
+      "size": 445887
+    },
+    {
+      "path": "assets/spine/character/Seir/Demon's_Daughter/char101101.atlas",
+      "size": 6981
+    },
+    {
+      "path": "assets/spine/character/Seir/Demon's_Daughter/char101101.png",
+      "size": 1639311
+    },
+    {
+      "path": "assets/spine/character/Seir/Demon's_Daughter/char101101.skel",
+      "size": 331806
+    },
+    {
+      "path": "assets/spine/character/Seir/Demon's_Daughter/char101101_c.atlas",
+      "size": 7191
+    },
+    {
+      "path": "assets/spine/character/Seir/Demon's_Daughter/char101101_c.png",
+      "size": 1211065
+    },
+    {
+      "path": "assets/spine/character/Seir/Demon's_Daughter/char101101_c.skel",
+      "size": 378262
+    },
+    {
+      "path": "assets/spine/character/Seir/New_Hire/char101103.atlas",
+      "size": 6257
+    },
+    {
+      "path": "assets/spine/character/Seir/New_Hire/char101103.png",
+      "size": 819402
+    },
+    {
+      "path": "assets/spine/character/Seir/New_Hire/char101103.skel",
+      "size": 816768
+    },
+    {
+      "path": "assets/spine/character/Sonya/Little_Pumpkin_Girl/char003902.atlas",
+      "size": 10241
+    },
+    {
+      "path": "assets/spine/character/Sonya/Little_Pumpkin_Girl/char003902.png",
+      "size": 878081
+    },
+    {
+      "path": "assets/spine/character/Sonya/Little_Pumpkin_Girl/char003902.skel",
+      "size": 592567
+    },
+    {
+      "path": "assets/spine/character/Sonya/Shadowed_Dream/char003901.atlas",
+      "size": 12909
+    },
+    {
+      "path": "assets/spine/character/Sonya/Shadowed_Dream/char003901.png",
+      "size": 1976155
+    },
+    {
+      "path": "assets/spine/character/Sonya/Shadowed_Dream/char003901.skel",
+      "size": 1451137
+    },
+    {
+      "path": "assets/spine/character/Sword_Maiden/Supreme_God_Archbishop/char020901.atlas",
+      "size": 5184
+    },
+    {
+      "path": "assets/spine/character/Sword_Maiden/Supreme_God_Archbishop/char020901.png",
+      "size": 1824321
+    },
+    {
+      "path": "assets/spine/character/Sword_Maiden/Supreme_God_Archbishop/char020901.skel",
+      "size": 873473
+    },
+    {
+      "path": "assets/spine/character/Sylvia/Admiral/char001004.atlas",
+      "size": 6498
+    },
+    {
+      "path": "assets/spine/character/Sylvia/Admiral/char001004.png",
+      "size": 1980602
+    },
+    {
+      "path": "assets/spine/character/Sylvia/Admiral/char001004.skel",
+      "size": 452294
+    },
+    {
+      "path": "assets/spine/character/Sylvia/Bikini_Agent/char001006.atlas",
+      "size": 12432
+    },
+    {
+      "path": "assets/spine/character/Sylvia/Bikini_Agent/char001006.png",
+      "size": 1218315
+    },
+    {
+      "path": "assets/spine/character/Sylvia/Bikini_Agent/char001006.skel",
+      "size": 816683
+    },
+    {
+      "path": "assets/spine/character/Sylvia/Crimson_Lotus/char001092.atlas",
+      "size": 9464
+    },
+    {
+      "path": "assets/spine/character/Sylvia/Crimson_Lotus/char001092.png",
+      "size": 1568303
+    },
+    {
+      "path": "assets/spine/character/Sylvia/Crimson_Lotus/char001092.skel",
+      "size": 909233
+    },
+    {
+      "path": "assets/spine/character/Sylvia/Desert_Flower/char001001.atlas",
+      "size": 3988
+    },
+    {
+      "path": "assets/spine/character/Sylvia/Desert_Flower/char001001.png",
+      "size": 3130282
+    },
+    {
+      "path": "assets/spine/character/Sylvia/Desert_Flower/char001001.skel",
+      "size": 432381
+    },
+    {
+      "path": "assets/spine/character/Sylvia/The_Sword_Queen/char001002.atlas",
+      "size": 13531
+    },
+    {
+      "path": "assets/spine/character/Sylvia/The_Sword_Queen/char001002.png",
+      "size": 2082604
+    },
+    {
+      "path": "assets/spine/character/Sylvia/The_Sword_Queen/char001002.skel",
+      "size": 892569
+    },
+    {
+      "path": "assets/spine/character/Teresse/Angel_of_Destruction/char001101.atlas",
+      "size": 3024
+    },
+    {
+      "path": "assets/spine/character/Teresse/Angel_of_Destruction/char001101.png",
+      "size": 1293429
+    },
+    {
+      "path": "assets/spine/character/Teresse/Angel_of_Destruction/char001101.skel",
+      "size": 370989
+    },
+    {
+      "path": "assets/spine/character/Teresse/Beachside_Angel/char001107.atlas",
+      "size": 3930
+    },
+    {
+      "path": "assets/spine/character/Teresse/Beachside_Angel/char001107.png",
+      "size": 752112
+    },
+    {
+      "path": "assets/spine/character/Teresse/Beachside_Angel/char001107.skel",
+      "size": 512096
+    },
+    {
+      "path": "assets/spine/character/Teresse/Medical_Club/char001106.atlas",
+      "size": 6808
+    },
+    {
+      "path": "assets/spine/character/Teresse/Medical_Club/char001106.png",
+      "size": 1067240
+    },
+    {
+      "path": "assets/spine/character/Teresse/Medical_Club/char001106.skel",
+      "size": 1108731
+    },
+    {
+      "path": "assets/spine/character/Teresse/Milky_Bikini/char001197.atlas",
+      "size": 7348
+    },
+    {
+      "path": "assets/spine/character/Teresse/Milky_Bikini/char001197.png",
+      "size": 836330
+    },
+    {
+      "path": "assets/spine/character/Teresse/Milky_Bikini/char001197.skel",
+      "size": 384308
+    },
+    {
+      "path": "assets/spine/character/Tyr/Innocent_Bunny/char004102.atlas",
+      "size": 11609
+    },
+    {
+      "path": "assets/spine/character/Tyr/Innocent_Bunny/char004102.png",
+      "size": 1145947
+    },
+    {
+      "path": "assets/spine/character/Tyr/Innocent_Bunny/char004102.skel",
+      "size": 1006285
+    },
+    {
+      "path": "assets/spine/character/Tyr/Starlight_Guardian/char004101.atlas",
+      "size": 8833
+    },
+    {
+      "path": "assets/spine/character/Tyr/Starlight_Guardian/char004101.png",
+      "size": 1163342
+    },
+    {
+      "path": "assets/spine/character/Tyr/Starlight_Guardian/char004101.skel",
+      "size": 1013982
+    },
+    {
+      "path": "assets/spine/character/Venaka/DJ/char067201.atlas",
+      "size": 9049
+    },
+    {
+      "path": "assets/spine/character/Venaka/DJ/char067201.png",
+      "size": 1589650
+    },
+    {
+      "path": "assets/spine/character/Venaka/DJ/char067201.skel",
+      "size": 525822
+    },
+    {
+      "path": "assets/spine/character/Venaka/Wind_Dancer/char067202.atlas",
+      "size": 8886
+    },
+    {
+      "path": "assets/spine/character/Venaka/Wind_Dancer/char067202.png",
+      "size": 1778732
+    },
+    {
+      "path": "assets/spine/character/Venaka/Wind_Dancer/char067202.skel",
+      "size": 650699
+    },
+    {
+      "path": "assets/spine/character/Ventana/Comeback_Idol/char067003.atlas",
+      "size": 7331
+    },
+    {
+      "path": "assets/spine/character/Ventana/Comeback_Idol/char067003.png",
+      "size": 1430831
+    },
+    {
+      "path": "assets/spine/character/Ventana/Comeback_Idol/char067003.skel",
+      "size": 317495
+    },
+    {
+      "path": "assets/spine/character/Ventana/Onsen_Practitioner/char067004.atlas",
+      "size": 12255
+    },
+    {
+      "path": "assets/spine/character/Ventana/Onsen_Practitioner/char067004.png",
+      "size": 1204710
+    },
+    {
+      "path": "assets/spine/character/Ventana/Onsen_Practitioner/char067004.skel",
+      "size": 1473507
+    },
+    {
+      "path": "assets/spine/character/Ventana/Snow_White/char067002.atlas",
+      "size": 11153
+    },
+    {
+      "path": "assets/spine/character/Ventana/Snow_White/char067002.png",
+      "size": 1706853
+    },
+    {
+      "path": "assets/spine/character/Ventana/Snow_White/char067002.skel",
+      "size": 684515
+    },
+    {
+      "path": "assets/spine/character/Wilhelmina/Frozen_Queen/char067604.atlas",
+      "size": 11379
+    },
+    {
+      "path": "assets/spine/character/Wilhelmina/Frozen_Queen/char067604.png",
+      "size": 1999140
+    },
+    {
+      "path": "assets/spine/character/Wilhelmina/Frozen_Queen/char067604.skel",
+      "size": 554609
+    },
+    {
+      "path": "assets/spine/character/Wilhelmina/Iron_Monarch/char067601.atlas",
+      "size": 4467
+    },
+    {
+      "path": "assets/spine/character/Wilhelmina/Iron_Monarch/char067601.png",
+      "size": 1286359
+    },
+    {
+      "path": "assets/spine/character/Wilhelmina/Iron_Monarch/char067601.skel",
+      "size": 478446
+    },
+    {
+      "path": "assets/spine/character/Wilhelmina/Water_Park_Queen/char067603.atlas",
+      "size": 13543
+    },
+    {
+      "path": "assets/spine/character/Wilhelmina/Water_Park_Queen/char067603.png",
+      "size": 1674157
+    },
+    {
+      "path": "assets/spine/character/Wilhelmina/Water_Park_Queen/char067603.skel",
+      "size": 689142
+    },
+    {
+      "path": "assets/spine/character/Yomi/Gentle_Destroyer/char020201.atlas",
+      "size": 4340
+    },
+    {
+      "path": "assets/spine/character/Yomi/Gentle_Destroyer/char020201.png",
+      "size": 990026
+    },
+    {
+      "path": "assets/spine/character/Yomi/Gentle_Destroyer/char020201.skel",
+      "size": 363328
+    },
+    {
+      "path": "assets/spine/character/Yozakura/Fist_of_Conviction/char020301.atlas",
+      "size": 6418
+    },
+    {
+      "path": "assets/spine/character/Yozakura/Fist_of_Conviction/char020301.png",
+      "size": 1842616
+    },
+    {
+      "path": "assets/spine/character/Yozakura/Fist_of_Conviction/char020301.skel",
+      "size": 222762
+    },
+    {
+      "path": "assets/spine/character/Yumi/Dancing_Snowflake/char020401.atlas",
+      "size": 4193
+    },
+    {
+      "path": "assets/spine/character/Yumi/Dancing_Snowflake/char020401.png",
+      "size": 756649
+    },
+    {
+      "path": "assets/spine/character/Yumi/Dancing_Snowflake/char020401.skel",
+      "size": 314989
+    },
+    {
+      "path": "assets/spine/character/Yuri/Comeback_Idol/char065103.atlas",
+      "size": 9563
+    },
+    {
+      "path": "assets/spine/character/Yuri/Comeback_Idol/char065103.png",
+      "size": 1152558
+    },
+    {
+      "path": "assets/spine/character/Yuri/Comeback_Idol/char065103.skel",
+      "size": 459497
+    },
+    {
+      "path": "assets/spine/character/Yuri/Forever_Mascot/char065193.atlas",
+      "size": 6816
+    },
+    {
+      "path": "assets/spine/character/Yuri/Forever_Mascot/char065193.png",
+      "size": 3004861
+    },
+    {
+      "path": "assets/spine/character/Yuri/Forever_Mascot/char065193.skel",
+      "size": 838594
+    },
+    {
+      "path": "assets/spine/character/Yuri/Whitebolt/char065102.atlas",
+      "size": 8963
+    },
+    {
+      "path": "assets/spine/character/Yuri/Whitebolt/char065102.png",
+      "size": 1259025
+    },
+    {
+      "path": "assets/spine/character/Yuri/Whitebolt/char065102.skel",
+      "size": 523138
+    },
+    {
+      "path": "assets/spine/character/Zenith/Poolside_Guardian/char061404.atlas",
+      "size": 12410
+    },
+    {
+      "path": "assets/spine/character/Zenith/Poolside_Guardian/char061404.png",
+      "size": 1130717
+    },
+    {
+      "path": "assets/spine/character/Zenith/Poolside_Guardian/char061404.skel",
+      "size": 620847
+    },
+    {
+      "path": "assets/spine/character/Zenith/Robin_Hood/char061402.atlas",
+      "size": 8937
+    },
+    {
+      "path": "assets/spine/character/Zenith/Robin_Hood/char061402.png",
+      "size": 1127223
+    },
+    {
+      "path": "assets/spine/character/Zenith/Robin_Hood/char061402.skel",
+      "size": 421173
+    },
+    {
+      "path": "assets/spine/character/Zenith/Stranger_Bunny/char061492.atlas",
+      "size": 8635
+    },
+    {
+      "path": "assets/spine/character/Zenith/Stranger_Bunny/char061492.png",
+      "size": 1368388
+    },
+    {
+      "path": "assets/spine/character/Zenith/Stranger_Bunny/char061492.skel",
+      "size": 579348
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char000201.png",
+      "size": 85121
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char000202.png",
+      "size": 75155
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char000203.png",
+      "size": 90245
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char000204.png",
+      "size": 82995
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char000206.png",
+      "size": 80124
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char000296.png",
+      "size": 93235
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char000301.png",
+      "size": 89372
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char000303.png",
+      "size": 96257
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char000304.png",
+      "size": 71027
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char000306.png",
+      "size": 97611
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char000396.png",
+      "size": 71700
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char000501.png",
+      "size": 91165
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char000502.png",
+      "size": 94290
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char000504.png",
+      "size": 99889
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char000506.png",
+      "size": 85617
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char000701.png",
+      "size": 80164
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char000706.png",
+      "size": 93582
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char000707.png",
+      "size": 62967
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char000708.png",
+      "size": 74369
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char000801.png",
+      "size": 93725
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char000804.png",
+      "size": 98055
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char000806.png",
+      "size": 92920
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char000807.png",
+      "size": 78735
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char001001.png",
+      "size": 109968
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char001002.png",
+      "size": 86597
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char001004.png",
+      "size": 102718
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char001006.png",
+      "size": 71474
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char001092.png",
+      "size": 75297
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char001101.png",
+      "size": 82880
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char001106.png",
+      "size": 64075
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char001107.png",
+      "size": 62744
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char001197.png",
+      "size": 58671
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char001201.png",
+      "size": 86802
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char001206.png",
+      "size": 107111
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char001207.png",
+      "size": 89930
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char002401.png",
+      "size": 78690
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char002403.png",
+      "size": 63421
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char002406.png",
+      "size": 76229
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char003001.png",
+      "size": 91381
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char003101.png",
+      "size": 71547
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char003201.png",
+      "size": 70928
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char003202.png",
+      "size": 79737
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char003203.png",
+      "size": 90043
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char003301.png",
+      "size": 76790
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char003302.png",
+      "size": 80556
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char003303.png",
+      "size": 69217
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char003392.png",
+      "size": 87122
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char003401.png",
+      "size": 85393
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char003402.png",
+      "size": 81053
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char003403.png",
+      "size": 72927
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char003501.png",
+      "size": 78779
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char003601.png",
+      "size": 61838
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char003602.png",
+      "size": 72109
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char003603.png",
+      "size": 77358
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char003604.png",
+      "size": 61954
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char003701.png",
+      "size": 83805
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char003702.png",
+      "size": 73548
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char003703.png",
+      "size": 72612
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char003793.png",
+      "size": 68578
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char003801.png",
+      "size": 59437
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char003802.png",
+      "size": 74374
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char003803.png",
+      "size": 65410
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char003892.png",
+      "size": 72033
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char003901.png",
+      "size": 80241
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char003902.png",
+      "size": 68704
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char004001.png",
+      "size": 69162
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char004002.png",
+      "size": 84842
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char004091.png",
+      "size": 92864
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char004101.png",
+      "size": 85846
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char004102.png",
+      "size": 79244
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char004201.png",
+      "size": 68139
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char004202.png",
+      "size": 63333
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char004301.png",
+      "size": 67118
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char020001.png",
+      "size": 74478
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char020002.png",
+      "size": 87767
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char020101.png",
+      "size": 80218
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char020102.png",
+      "size": 63704
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char020201.png",
+      "size": 72540
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char020301.png",
+      "size": 79087
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char020401.png",
+      "size": 61948
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char020501.png",
+      "size": 70479
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char020701.png",
+      "size": 88396
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char020801.png",
+      "size": 63911
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char020901.png",
+      "size": 75095
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char021001.png",
+      "size": 70038
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char060401.png",
+      "size": 80321
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char060402.png",
+      "size": 92940
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char060403.png",
+      "size": 90828
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char060501.png",
+      "size": 87282
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char060502.png",
+      "size": 101351
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char060601.png",
+      "size": 91610
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char060602.png",
+      "size": 115382
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char060701.png",
+      "size": 113255
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char060702.png",
+      "size": 81748
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char060706.png",
+      "size": 83960
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char060801.png",
+      "size": 76576
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char060802.png",
+      "size": 81047
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char060804.png",
+      "size": 76567
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char061001.png",
+      "size": 85666
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char061002.png",
+      "size": 92805
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char061003.png",
+      "size": 82832
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char061092.png",
+      "size": 90091
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char061101.png",
+      "size": 96147
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char061102.png",
+      "size": 77104
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char061103.png",
+      "size": 97314
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char061302.png",
+      "size": 108143
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char061305.png",
+      "size": 91556
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char061306.png",
+      "size": 83018
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char061392.png",
+      "size": 96357
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char061402.png",
+      "size": 84040
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char061404.png",
+      "size": 82170
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char061492.png",
+      "size": 89522
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char063001.png",
+      "size": 74240
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char063301.png",
+      "size": 74312
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char063401.png",
+      "size": 84447
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char065102.png",
+      "size": 92572
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char065103.png",
+      "size": 90134
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char065193.png",
+      "size": 77386
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char066401.png",
+      "size": 71776
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char066402.png",
+      "size": 106345
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char066403.png",
+      "size": 67249
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char066801.png",
+      "size": 80504
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char066802.png",
+      "size": 95310
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char066803.png",
+      "size": 83311
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char066902.png",
+      "size": 91838
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char066906.png",
+      "size": 75545
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char066907.png",
+      "size": 83150
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char067002.png",
+      "size": 87232
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char067003.png",
+      "size": 76178
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char067004.png",
+      "size": 71910
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char067101.png",
+      "size": 125838
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char067102.png",
+      "size": 80631
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char067103.png",
+      "size": 63801
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char067104.png",
+      "size": 66715
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char067201.png",
+      "size": 73566
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char067202.png",
+      "size": 106306
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char067301.png",
+      "size": 61378
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char067302.png",
+      "size": 108304
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char067303.png",
+      "size": 66605
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char067401.png",
+      "size": 94209
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char067402.png",
+      "size": 66898
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char067403.png",
+      "size": 76552
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char067491.png",
+      "size": 63552
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char067502.png",
+      "size": 72241
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char067503.png",
+      "size": 61431
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char067504.png",
+      "size": 83508
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char067601.png",
+      "size": 70042
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char067603.png",
+      "size": 64381
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char067604.png",
+      "size": 122157
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char067701.png",
+      "size": 76016
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char067702.png",
+      "size": 79758
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char067801.png",
+      "size": 82378
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char067803.png",
+      "size": 72785
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char067901.png",
+      "size": 76647
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char100301.png",
+      "size": 81578
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char100601.png",
+      "size": 81970
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char100801.png",
+      "size": 66860
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char101101.png",
+      "size": 96326
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char101102.png",
+      "size": 97354
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char101103.png",
+      "size": 86042
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char101301.png",
+      "size": 75273
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char101302.png",
+      "size": 85892
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char101401.png",
+      "size": 75657
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char101402.png",
+      "size": 71944
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char103301.png",
+      "size": 74976
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char103401.png",
+      "size": 80871
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char103501.png",
+      "size": 85872
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char103601.png",
+      "size": 78569
+    },
+    {
+      "path": "assets/ui/costume_face/illust_inven_char103701.png",
+      "size": 76148
+    }
+  ]
+}

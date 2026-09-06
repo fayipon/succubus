@@ -1,0 +1,1869 @@
+[
+  {
+    "id": "Anastasia",
+    "name": "安娜塔西亞",
+    "gender": "female",
+    "skins": [
+      {
+        "id": "assets/spine/character/Anastasia/Fire_Graffiti/char060502.skel",
+        "name": "烈焰塗鴉",
+        "sourceLabel": "Fire Graffiti",
+        "skeleton": "assets/spine/character/Anastasia/Fire_Graffiti/char060502.skel",
+        "atlas": "assets/spine/character/Anastasia/Fire_Graffiti/char060502.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char060502.png"
+      },
+      {
+        "id": "assets/spine/character/Anastasia/Gentle_Maid/char060501.skel",
+        "name": "溫柔女僕",
+        "sourceLabel": "Gentle Maid",
+        "skeleton": "assets/spine/character/Anastasia/Gentle_Maid/char060501.skel",
+        "atlas": "assets/spine/character/Anastasia/Gentle_Maid/char060501.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char060501.png"
+      }
+    ]
+  },
+  {
+    "id": "Angelica",
+    "name": "安潔莉卡",
+    "gender": "female",
+    "skins": [
+      {
+        "id": "assets/spine/character/Angelica/Neon_Savior/char066403.skel",
+        "name": "霓虹救世主",
+        "sourceLabel": "Neon Savior",
+        "skeleton": "assets/spine/character/Angelica/Neon_Savior/char066403.skel",
+        "atlas": "assets/spine/character/Angelica/Neon_Savior/char066403.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char066403.png"
+      },
+      {
+        "id": "assets/spine/character/Angelica/Pool_Party/char066402.skel",
+        "name": "泳池派對",
+        "sourceLabel": "Pool Party",
+        "skeleton": "assets/spine/character/Angelica/Pool_Party/char066402.skel",
+        "atlas": "assets/spine/character/Angelica/Pool_Party/char066402.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char066402.png"
+      },
+      {
+        "id": "assets/spine/character/Angelica/The_Fallen/char066401.skel",
+        "name": "墮落天使",
+        "sourceLabel": "The Fallen",
+        "skeleton": "assets/spine/character/Angelica/The_Fallen/char066401.skel",
+        "atlas": "assets/spine/character/Angelica/The_Fallen/char066401.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char066401.png"
+      }
+    ]
+  },
+  {
+    "id": "Aquila",
+    "name": "阿奎拉",
+    "gender": "female",
+    "skins": [
+      {
+        "id": "assets/spine/character/Aquila/Savage_Warrior/char067901.skel",
+        "name": "野性戰士",
+        "sourceLabel": "Savage Warrior",
+        "skeleton": "assets/spine/character/Aquila/Savage_Warrior/char067901.skel",
+        "atlas": "assets/spine/character/Aquila/Savage_Warrior/char067901.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char067901.png"
+      }
+    ]
+  },
+  {
+    "id": "Arines",
+    "name": "阿里內斯",
+    "gender": "female",
+    "skins": [
+      {
+        "id": "assets/spine/character/Arines/Priest_of_Vitality/char103701.skel",
+        "name": "活力祭司",
+        "sourceLabel": "Priest of Vitality",
+        "skeleton": "assets/spine/character/Arines/Priest_of_Vitality/char103701.skel",
+        "atlas": "assets/spine/character/Arines/Priest_of_Vitality/char103701.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char103701.png"
+      }
+    ]
+  },
+  {
+    "id": "Beatrice",
+    "name": "比阿特麗絲",
+    "gender": "female",
+    "skins": [
+      {
+        "id": "assets/spine/character/Beatrice/The_Mighty_Warrior_of_the_Tribe/char103501.skel",
+        "name": "部落勇士",
+        "sourceLabel": "The Mighty Warrior of the Tribe",
+        "skeleton": "assets/spine/character/Beatrice/The_Mighty_Warrior_of_the_Tribe/char103501.skel",
+        "atlas": "assets/spine/character/Beatrice/The_Mighty_Warrior_of_the_Tribe/char103501.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char103501.png"
+      }
+    ]
+  },
+  {
+    "id": "Bernie",
+    "name": "貝爾妮",
+    "gender": "female",
+    "skins": [
+      {
+        "id": "assets/spine/character/Bernie/Righteous_Raider_Girl/char100801.skel",
+        "name": "正義的掠奪少女",
+        "sourceLabel": "Righteous Raider Girl",
+        "skeleton": "assets/spine/character/Bernie/Righteous_Raider_Girl/char100801.skel",
+        "atlas": "assets/spine/character/Bernie/Righteous_Raider_Girl/char100801.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char100801.png"
+      }
+    ]
+  },
+  {
+    "id": "Blade",
+    "name": "布萊德",
+    "gender": "female",
+    "skins": [
+      {
+        "id": "assets/spine/character/Blade/Apostle/char003701.skel",
+        "name": "使者",
+        "sourceLabel": "Apostle",
+        "skeleton": "assets/spine/character/Blade/Apostle/char003701.skel",
+        "atlas": "assets/spine/character/Blade/Apostle/char003701.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char003701.png"
+      },
+      {
+        "id": "assets/spine/character/Blade/Onsen_Swordfighter/char003702.skel",
+        "name": "溫泉劍士",
+        "sourceLabel": "Onsen Swordfighter",
+        "skeleton": "assets/spine/character/Blade/Onsen_Swordfighter/char003702.skel",
+        "atlas": "assets/spine/character/Blade/Onsen_Swordfighter/char003702.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char003702.png"
+      },
+      {
+        "id": "assets/spine/character/Blade/Tender_Dream/char003793.skel",
+        "name": "溫柔之夢",
+        "sourceLabel": "Tender Dream",
+        "skeleton": "assets/spine/character/Blade/Tender_Dream/char003793.skel",
+        "atlas": "assets/spine/character/Blade/Tender_Dream/char003793.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char003793.png"
+      },
+      {
+        "id": "assets/spine/character/Blade/Young_Lady/char003703.skel",
+        "name": "小公主",
+        "sourceLabel": "Young Lady",
+        "skeleton": "assets/spine/character/Blade/Young_Lady/char003703.skel",
+        "atlas": "assets/spine/character/Blade/Young_Lady/char003703.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char003703.png"
+      }
+    ]
+  },
+  {
+    "id": "Celia",
+    "name": "西利亞",
+    "gender": "female",
+    "skins": [
+      {
+        "id": "assets/spine/character/Celia/Descendant_of_the_Great_Witch/char060402.skel",
+        "name": "大魔女的後裔",
+        "sourceLabel": "Descendant of the Great Witch",
+        "skeleton": "assets/spine/character/Celia/Descendant_of_the_Great_Witch/char060402.skel",
+        "atlas": "assets/spine/character/Celia/Descendant_of_the_Great_Witch/char060402.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char060402.png"
+      },
+      {
+        "id": "assets/spine/character/Celia/Masquerade_Bunny/char060403.skel",
+        "name": "化妝舞會兔女郎",
+        "sourceLabel": "Masquerade Bunny",
+        "skeleton": "assets/spine/character/Celia/Masquerade_Bunny/char060403.skel",
+        "atlas": "assets/spine/character/Celia/Masquerade_Bunny/char060403.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char060403.png"
+      },
+      {
+        "id": "assets/spine/character/Celia/The_Curse/char060401.skel",
+        "name": "詛咒",
+        "sourceLabel": "The Curse",
+        "skeleton": "assets/spine/character/Celia/The_Curse/char060401.skel",
+        "atlas": "assets/spine/character/Celia/The_Curse/char060401.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char060401.png"
+      }
+    ]
+  },
+  {
+    "id": "Cynthia",
+    "name": "辛西亞",
+    "gender": "female",
+    "skins": [
+      {
+        "id": "assets/spine/character/Cynthia/Warmth_within_the_Severe_Cold/char063301.skel",
+        "name": "嚴寒中的溫暖",
+        "sourceLabel": "Warmth within the Severe Cold",
+        "skeleton": "assets/spine/character/Cynthia/Warmth_within_the_Severe_Cold/char063301.skel",
+        "atlas": "assets/spine/character/Cynthia/Warmth_within_the_Severe_Cold/char063301.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char063301.png"
+      }
+    ]
+  },
+  {
+    "id": "Dalvi",
+    "name": "達非",
+    "gender": "female",
+    "skins": [
+      {
+        "id": "assets/spine/character/Dalvi/Bright_Moon/char061302.skel",
+        "name": "明月",
+        "sourceLabel": "Bright Moon",
+        "skeleton": "assets/spine/character/Dalvi/Bright_Moon/char061302.skel",
+        "atlas": "assets/spine/character/Dalvi/Bright_Moon/char061302.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char061302.png"
+      },
+      {
+        "id": "assets/spine/character/Dalvi/Butterfly_Dream/char061392.skel",
+        "name": "蝴蝶之夢",
+        "sourceLabel": "Butterfly Dream",
+        "skeleton": "assets/spine/character/Dalvi/Butterfly_Dream/char061392.skel",
+        "atlas": "assets/spine/character/Dalvi/Butterfly_Dream/char061392.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char061392.png"
+      },
+      {
+        "id": "assets/spine/character/Dalvi/Summer_Vacation/char061305.skel",
+        "name": "夏日假期",
+        "sourceLabel": "Summer Vacation",
+        "skeleton": "assets/spine/character/Dalvi/Summer_Vacation/char061305.skel",
+        "atlas": "assets/spine/character/Dalvi/Summer_Vacation/char061305.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char061305.png"
+      },
+      {
+        "id": "assets/spine/character/Dalvi/Tricky_Lover/char061306.skel",
+        "name": "狡黠戀人",
+        "sourceLabel": "Tricky Lover",
+        "skeleton": "assets/spine/character/Dalvi/Tricky_Lover/char061306.skel",
+        "atlas": "assets/spine/character/Dalvi/Tricky_Lover/char061306.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char061306.png"
+      }
+    ]
+  },
+  {
+    "id": "Darian",
+    "name": "達麗安",
+    "gender": "female",
+    "skins": [
+      {
+        "id": "assets/spine/character/Darian/Bittersweet_Bunny/char004002.skel",
+        "name": "苦甜兔女郎",
+        "sourceLabel": "Bittersweet Bunny",
+        "skeleton": "assets/spine/character/Darian/Bittersweet_Bunny/char004002.skel",
+        "atlas": "assets/spine/character/Darian/Bittersweet_Bunny/char004002.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char004002.png"
+      },
+      {
+        "id": "assets/spine/character/Darian/Herald_of_Enlightenment/char004091.skel",
+        "name": "啟示的傳令者",
+        "sourceLabel": "Herald of Enlightenment",
+        "skeleton": "assets/spine/character/Darian/Herald_of_Enlightenment/char004091.skel",
+        "atlas": "assets/spine/character/Darian/Herald_of_Enlightenment/char004091.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char004091.png"
+      },
+      {
+        "id": "assets/spine/character/Darian/Prophetic_Dream/char004001.skel",
+        "name": "啟示之夢",
+        "sourceLabel": "Prophetic Dream",
+        "skeleton": "assets/spine/character/Darian/Prophetic_Dream/char004001.skel",
+        "atlas": "assets/spine/character/Darian/Prophetic_Dream/char004001.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char004001.png"
+      }
+    ]
+  },
+  {
+    "id": "Diana",
+    "name": "黛安娜",
+    "gender": "female",
+    "skins": [
+      {
+        "id": "assets/spine/character/Diana/Adventurer_of_the_Unknown/char002401.skel",
+        "name": "未知的探究者",
+        "sourceLabel": "Adventurer of the Unknown",
+        "skeleton": "assets/spine/character/Diana/Adventurer_of_the_Unknown/char002401.skel",
+        "atlas": "assets/spine/character/Diana/Adventurer_of_the_Unknown/char002401.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char002401.png"
+      },
+      {
+        "id": "assets/spine/character/Diana/Anti-Dystopia/char002406.skel",
+        "name": "反烏托邦",
+        "sourceLabel": "Anti-Dystopia",
+        "skeleton": "assets/spine/character/Diana/Anti-Dystopia/char002406.skel",
+        "atlas": "assets/spine/character/Diana/Anti-Dystopia/char002406.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char002406.png"
+      },
+      {
+        "id": "assets/spine/character/Diana/Magical_Innovator/char002403.skel",
+        "name": "魔法革新者",
+        "sourceLabel": "Magical Innovator",
+        "skeleton": "assets/spine/character/Diana/Magical_Innovator/char002403.skel",
+        "atlas": "assets/spine/character/Diana/Magical_Innovator/char002403.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char002403.png"
+      }
+    ]
+  },
+  {
+    "id": "Eclipse",
+    "name": "伊克利普斯",
+    "gender": "female",
+    "skins": [
+      {
+        "id": "assets/spine/character/Eclipse/Beach_Vacation/char000707.skel",
+        "name": "海灘假期",
+        "sourceLabel": "Beach Vacation",
+        "skeleton": "assets/spine/character/Eclipse/Beach_Vacation/char000707.skel",
+        "atlas": "assets/spine/character/Eclipse/Beach_Vacation/char000707.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char000707.png"
+      },
+      {
+        "id": "assets/spine/character/Eclipse/Dimension_Witch/char000701.skel",
+        "name": "次元魔女",
+        "sourceLabel": "Dimension Witch",
+        "skeleton": "assets/spine/character/Eclipse/Dimension_Witch/char000701.skel",
+        "atlas": "assets/spine/character/Eclipse/Dimension_Witch/char000701.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char000701.png"
+      },
+      {
+        "id": "assets/spine/character/Eclipse/Dream_Bride/char000708.skel",
+        "name": "夢幻新娘",
+        "sourceLabel": "Dream Bride",
+        "skeleton": "assets/spine/character/Eclipse/Dream_Bride/char000708.skel",
+        "atlas": "assets/spine/character/Eclipse/Dream_Bride/char000708.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char000708.png"
+      },
+      {
+        "id": "assets/spine/character/Eclipse/Nightmare_Bunny/char000706.skel",
+        "name": "惡夢兔女郎",
+        "sourceLabel": "Nightmare Bunny",
+        "skeleton": "assets/spine/character/Eclipse/Nightmare_Bunny/char000706.skel",
+        "atlas": "assets/spine/character/Eclipse/Nightmare_Bunny/char000706.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char000706.png"
+      }
+    ]
+  },
+  {
+    "id": "Eleaneer",
+    "name": "艾尼爾",
+    "gender": "female",
+    "skins": [
+      {
+        "id": "assets/spine/character/Eleaneer/B-Rank_Idol/char061102.skel",
+        "name": "新秀偶像",
+        "sourceLabel": "B-Rank Idol",
+        "skeleton": "assets/spine/character/Eleaneer/B-Rank_Idol/char061102.skel",
+        "atlas": "assets/spine/character/Eleaneer/B-Rank_Idol/char061102.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char061102.png"
+      },
+      {
+        "id": "assets/spine/character/Eleaneer/Piercing_Magic_Bow/char061101.skel",
+        "name": "穿透魔弓",
+        "sourceLabel": "Piercing Magic Bow",
+        "skeleton": "assets/spine/character/Eleaneer/Piercing_Magic_Bow/char061101.skel",
+        "atlas": "assets/spine/character/Eleaneer/Piercing_Magic_Bow/char061101.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char061101.png"
+      },
+      {
+        "id": "assets/spine/character/Eleaneer/Shadow_Bunny/char061103.skel",
+        "name": "暗影兔女郎",
+        "sourceLabel": "Shadow Bunny",
+        "skeleton": "assets/spine/character/Eleaneer/Shadow_Bunny/char061103.skel",
+        "atlas": "assets/spine/character/Eleaneer/Shadow_Bunny/char061103.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char061103.png"
+      }
+    ]
+  },
+  {
+    "id": "Elise",
+    "name": "愛麗潔",
+    "gender": "female",
+    "skins": [
+      {
+        "id": "assets/spine/character/Elise/Code_Name_O/char060802.skel",
+        "name": "代號奧",
+        "sourceLabel": "Code Name O",
+        "skeleton": "assets/spine/character/Elise/Code_Name_O/char060802.skel",
+        "atlas": "assets/spine/character/Elise/Code_Name_O/char060802.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char060802.png"
+      },
+      {
+        "id": "assets/spine/character/Elise/Lovely_Lady/char060801.skel",
+        "name": "可愛淑女",
+        "sourceLabel": "Lovely Lady",
+        "skeleton": "assets/spine/character/Elise/Lovely_Lady/char060801.skel",
+        "atlas": "assets/spine/character/Elise/Lovely_Lady/char060801.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char060801.png"
+      },
+      {
+        "id": "assets/spine/character/Elise/Naive_Lady/char060804.skel",
+        "name": "天真淑女",
+        "sourceLabel": "Naive Lady",
+        "skeleton": "assets/spine/character/Elise/Naive_Lady/char060804.skel",
+        "atlas": "assets/spine/character/Elise/Naive_Lady/char060804.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char060804.png"
+      }
+    ]
+  },
+  {
+    "id": "Elpis",
+    "name": "艾爾皮斯",
+    "gender": "female",
+    "skins": [
+      {
+        "id": "assets/spine/character/Elpis/Hand_of_Salvation/char003101.skel",
+        "name": "救贖之手",
+        "sourceLabel": "Hand of Salvation",
+        "skeleton": "assets/spine/character/Elpis/Hand_of_Salvation/char003101.skel",
+        "atlas": "assets/spine/character/Elpis/Hand_of_Salvation/char003101.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char003101.png"
+      }
+    ]
+  },
+  {
+    "id": "Emma",
+    "name": "艾瑪",
+    "gender": "female",
+    "skins": [
+      {
+        "id": "assets/spine/character/Emma/Haggard_Delinquent/char101301.skel",
+        "name": "疲憊的不良少女",
+        "sourceLabel": "Haggard Delinquent",
+        "skeleton": "assets/spine/character/Emma/Haggard_Delinquent/char101301.skel",
+        "atlas": "assets/spine/character/Emma/Haggard_Delinquent/char101301.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char101301.png"
+      },
+      {
+        "id": "assets/spine/character/Emma/School_Queen/char101302.skel",
+        "name": "校園女王",
+        "sourceLabel": "School Queen",
+        "skeleton": "assets/spine/character/Emma/School_Queen/char101302.skel",
+        "atlas": "assets/spine/character/Emma/School_Queen/char101302.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char101302.png"
+      }
+    ]
+  },
+  {
+    "id": "Eris",
+    "name": "艾莉絲",
+    "gender": "female",
+    "skins": [
+      {
+        "id": "assets/spine/character/Eris/Esteemed_Adventurer/char020001.skel",
+        "name": "備受尊敬的冒險家",
+        "sourceLabel": "Esteemed Adventurer",
+        "skeleton": "assets/spine/character/Eris/Esteemed_Adventurer/char020001.skel",
+        "atlas": "assets/spine/character/Eris/Esteemed_Adventurer/char020001.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char020001.png"
+      },
+      {
+        "id": "assets/spine/character/Eris/Your_Very_Own_Cat/char020002.skel",
+        "name": "只屬於你的貓咪",
+        "sourceLabel": "Your Very Own Cat",
+        "skeleton": "assets/spine/character/Eris/Your_Very_Own_Cat/char020002.skel",
+        "atlas": "assets/spine/character/Eris/Your_Very_Own_Cat/char020002.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char020002.png"
+      }
+    ]
+  },
+  {
+    "id": "Glacia",
+    "name": "葛拉西亞",
+    "gender": "female",
+    "skins": [
+      {
+        "id": "assets/spine/character/Glacia/Alice/char066902.skel",
+        "name": "愛麗絲",
+        "sourceLabel": "Alice",
+        "skeleton": "assets/spine/character/Glacia/Alice/char066902.skel",
+        "atlas": "assets/spine/character/Glacia/Alice/char066902.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char066902.png"
+      },
+      {
+        "id": "assets/spine/character/Glacia/Disciplinary_Committee/char066906.skel",
+        "name": "風紀委員",
+        "sourceLabel": "Disciplinary Committee",
+        "skeleton": "assets/spine/character/Glacia/Disciplinary_Committee/char066906.skel",
+        "atlas": "assets/spine/character/Glacia/Disciplinary_Committee/char066906.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char066906.png"
+      },
+      {
+        "id": "assets/spine/character/Glacia/Heavenly_Guardian_Successor/char066907.skel",
+        "name": "天界守護者的繼承人",
+        "sourceLabel": "Heavenly Guardian Successor",
+        "skeleton": "assets/spine/character/Glacia/Heavenly_Guardian_Successor/char066907.skel",
+        "atlas": "assets/spine/character/Glacia/Heavenly_Guardian_Successor/char066907.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char066907.png"
+      }
+    ]
+  },
+  {
+    "id": "Granadair",
+    "name": "葛拉娜德",
+    "gender": "female",
+    "skins": [
+      {
+        "id": "assets/spine/character/Granadair/Queen_of_Gluttis/char067702.skel",
+        "name": "葛魯提斯女王",
+        "sourceLabel": "Queen of Gluttis",
+        "skeleton": "assets/spine/character/Granadair/Queen_of_Gluttis/char067702.skel",
+        "atlas": "assets/spine/character/Granadair/Queen_of_Gluttis/char067702.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char067702.png"
+      },
+      {
+        "id": "assets/spine/character/Granadair/Shrine_Maiden_of_Purification/char067701.skel",
+        "name": "淨化巫女",
+        "sourceLabel": "Shrine Maiden of Purification",
+        "skeleton": "assets/spine/character/Granadair/Shrine_Maiden_of_Purification/char067701.skel",
+        "atlas": "assets/spine/character/Granadair/Shrine_Maiden_of_Purification/char067701.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char067701.png"
+      }
+    ]
+  },
+  {
+    "id": "Granhildr",
+    "name": "葛蘭西特",
+    "gender": "female",
+    "skins": [
+      {
+        "id": "assets/spine/character/Granhildr/Boo_Ghost/char067103.skel",
+        "name": "驚嚇幽靈",
+        "sourceLabel": "Boo Ghost",
+        "skeleton": "assets/spine/character/Granhildr/Boo_Ghost/char067103.skel",
+        "atlas": "assets/spine/character/Granhildr/Boo_Ghost/char067103.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char067103.png"
+      },
+      {
+        "id": "assets/spine/character/Granhildr/Combat_Medic/char067104.skel",
+        "name": "戰地醫護",
+        "sourceLabel": "Combat Medic",
+        "skeleton": "assets/spine/character/Granhildr/Combat_Medic/char067104.skel",
+        "atlas": "assets/spine/character/Granhildr/Combat_Medic/char067104.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char067104.png"
+      },
+      {
+        "id": "assets/spine/character/Granhildr/Comeback_Idol/char067102.skel",
+        "name": "回歸偶像",
+        "sourceLabel": "Comeback Idol",
+        "skeleton": "assets/spine/character/Granhildr/Comeback_Idol/char067102.skel",
+        "atlas": "assets/spine/character/Granhildr/Comeback_Idol/char067102.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char067102.png"
+      },
+      {
+        "id": "assets/spine/character/Granhildr/The_Void/char067101.skel",
+        "name": "虛無",
+        "sourceLabel": "The Void",
+        "skeleton": "assets/spine/character/Granhildr/The_Void/char067101.skel",
+        "atlas": "assets/spine/character/Granhildr/The_Void/char067101.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char067101.png"
+      }
+    ]
+  },
+  {
+    "id": "Helena",
+    "name": "海倫娜",
+    "gender": "female",
+    "skins": [
+      {
+        "id": "assets/spine/character/Helena/B-Rank_Idol/char061002.skel",
+        "name": "新秀偶像",
+        "sourceLabel": "B-Rank Idol",
+        "skeleton": "assets/spine/character/Helena/B-Rank_Idol/char061002.skel",
+        "atlas": "assets/spine/character/Helena/B-Rank_Idol/char061002.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char061002.png"
+      },
+      {
+        "id": "assets/spine/character/Helena/Rising_Star/char061092.skel",
+        "name": "明日之星",
+        "sourceLabel": "Rising Star",
+        "skeleton": "assets/spine/character/Helena/Rising_Star/char061092.skel",
+        "atlas": "assets/spine/character/Helena/Rising_Star/char061092.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char061092.png"
+      },
+      {
+        "id": "assets/spine/character/Helena/Sunny_Inn_Hand/char061003.skel",
+        "name": "陽光旅店助手",
+        "sourceLabel": "Sunny Inn Hand",
+        "skeleton": "assets/spine/character/Helena/Sunny_Inn_Hand/char061003.skel",
+        "atlas": "assets/spine/character/Helena/Sunny_Inn_Hand/char061003.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char061003.png"
+      },
+      {
+        "id": "assets/spine/character/Helena/Top_Idol/char061001.skel",
+        "name": "頂級偶像",
+        "sourceLabel": "Top Idol",
+        "skeleton": "assets/spine/character/Helena/Top_Idol/char061001.skel",
+        "atlas": "assets/spine/character/Helena/Top_Idol/char061001.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char061001.png"
+      }
+    ]
+  },
+  {
+    "id": "High Elf Archer",
+    "name": "妖精弓手",
+    "gender": "female",
+    "skins": [
+      {
+        "id": "assets/spine/character/High_Elf_Archer/Daughter_of_Starwind/char020801.skel",
+        "name": "星風之女",
+        "sourceLabel": "Daughter of Starwind",
+        "skeleton": "assets/spine/character/High_Elf_Archer/Daughter_of_Starwind/char020801.skel",
+        "atlas": "assets/spine/character/High_Elf_Archer/Daughter_of_Starwind/char020801.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char020801.png"
+      }
+    ]
+  },
+  {
+    "id": "Hikage",
+    "name": "日影",
+    "gender": "female",
+    "skins": [
+      {
+        "id": "assets/spine/character/Hikage/Kind_Ruthlessness/char020501.skel",
+        "name": "溫柔的無情",
+        "sourceLabel": "Kind Ruthlessness",
+        "skeleton": "assets/spine/character/Hikage/Kind_Ruthlessness/char020501.skel",
+        "atlas": "assets/spine/character/Hikage/Kind_Ruthlessness/char020501.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char020501.png"
+      }
+    ]
+  },
+  {
+    "id": "Ikaruga",
+    "name": "斑鳩",
+    "gender": "female",
+    "skins": [
+      {
+        "id": "assets/spine/character/Ikaruga/Noble_Flame/char021001.skel",
+        "name": "高潔烈焰",
+        "sourceLabel": "Noble Flame",
+        "skeleton": "assets/spine/character/Ikaruga/Noble_Flame/char021001.skel",
+        "atlas": "assets/spine/character/Ikaruga/Noble_Flame/char021001.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char021001.png"
+      }
+    ]
+  },
+  {
+    "id": "Ingrid",
+    "name": "英格麗",
+    "gender": "female",
+    "skins": [
+      {
+        "id": "assets/spine/character/Ingrid/Kardis'_Bullet/char063001.skel",
+        "name": "卡迪斯的子彈",
+        "sourceLabel": "Kardis' Bullet",
+        "skeleton": "assets/spine/character/Ingrid/Kardis'_Bullet/char063001.skel",
+        "atlas": "assets/spine/character/Ingrid/Kardis'_Bullet/char063001.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char063001.png"
+      }
+    ]
+  },
+  {
+    "id": "Julie",
+    "name": "茱莉",
+    "gender": "female",
+    "skins": [
+      {
+        "id": "assets/spine/character/Julie/Healer/char063401.skel",
+        "name": "治癒者",
+        "sourceLabel": "Healer",
+        "skeleton": "assets/spine/character/Julie/Healer/char063401.skel",
+        "atlas": "assets/spine/character/Julie/Healer/char063401.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char063401.png"
+      }
+    ]
+  },
+  {
+    "id": "Justia",
+    "name": "悠絲緹亞",
+    "gender": "female",
+    "skins": [
+      {
+        "id": "assets/spine/character/Justia/Blood_Glutton/char000203.skel",
+        "name": "嗜血者",
+        "sourceLabel": "Blood Glutton",
+        "skeleton": "assets/spine/character/Justia/Blood_Glutton/char000203.skel",
+        "atlas": "assets/spine/character/Justia/Blood_Glutton/char000203.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char000203.png"
+      },
+      {
+        "id": "assets/spine/character/Justia/Hot_Summer_Dream/char000296.skel",
+        "name": "仲夏之夢",
+        "sourceLabel": "Hot Summer Dream",
+        "skeleton": "assets/spine/character/Justia/Hot_Summer_Dream/char000296.skel",
+        "atlas": "assets/spine/character/Justia/Hot_Summer_Dream/char000296.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char000296.png"
+      },
+      {
+        "id": "assets/spine/character/Justia/Kendo_Club/char000204.skel",
+        "name": "劍道社",
+        "sourceLabel": "Kendo Club",
+        "skeleton": "assets/spine/character/Justia/Kendo_Club/char000204.skel",
+        "atlas": "assets/spine/character/Justia/Kendo_Club/char000204.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char000204.png"
+      },
+      {
+        "id": "assets/spine/character/Justia/Knight_of_Blood/char000201.skel",
+        "name": "血之騎士",
+        "sourceLabel": "Knight of Blood",
+        "skeleton": "assets/spine/character/Justia/Knight_of_Blood/char000201.skel",
+        "atlas": "assets/spine/character/Justia/Knight_of_Blood/char000201.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char000201.png"
+      },
+      {
+        "id": "assets/spine/character/Justia/Pool_Party/char000206.skel",
+        "name": "泳池派對",
+        "sourceLabel": "Pool Party",
+        "skeleton": "assets/spine/character/Justia/Pool_Party/char000206.skel",
+        "atlas": "assets/spine/character/Justia/Pool_Party/char000206.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char000206.png"
+      },
+      {
+        "id": "assets/spine/character/Justia/White_Reaper/char000202.skel",
+        "name": "白色死神",
+        "sourceLabel": "White Reaper",
+        "skeleton": "assets/spine/character/Justia/White_Reaper/char000202.skel",
+        "atlas": "assets/spine/character/Justia/White_Reaper/char000202.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char000202.png"
+      },
+      {
+        "id": "assets/spine/character/Sacred_Justia/Reclaimed_Destiny/char003501.skel",
+        "name": "重拾的命運",
+        "sourceLabel": "Reclaimed Destiny",
+        "skeleton": "assets/spine/character/Sacred_Justia/Reclaimed_Destiny/char003501.skel",
+        "atlas": "assets/spine/character/Sacred_Justia/Reclaimed_Destiny/char003501.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char003501.png"
+      }
+    ]
+  },
+  {
+    "id": "Layla",
+    "name": "蕾拉",
+    "gender": "female",
+    "skins": [
+      {
+        "id": "assets/spine/character/Layla/Anvil_of_Creation/char003001.skel",
+        "name": "創造的鐵砧",
+        "sourceLabel": "Anvil of Creation",
+        "skeleton": "assets/spine/character/Layla/Anvil_of_Creation/char003001.skel",
+        "atlas": "assets/spine/character/Layla/Anvil_of_Creation/char003001.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char003001.png"
+      }
+    ]
+  },
+  {
+    "id": "Lecliss",
+    "name": "萊克莉斯",
+    "gender": "female",
+    "skins": [
+      {
+        "id": "assets/spine/character/Lecliss/Android_Queen/char060602.skel",
+        "name": "人造人女王",
+        "sourceLabel": "Android Queen",
+        "skeleton": "assets/spine/character/Lecliss/Android_Queen/char060602.skel",
+        "atlas": "assets/spine/character/Lecliss/Android_Queen/char060602.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char060602.png"
+      },
+      {
+        "id": "assets/spine/character/Lecliss/Killer_Doll/char060601.skel",
+        "name": "殺戮人偶",
+        "sourceLabel": "Killer Doll",
+        "skeleton": "assets/spine/character/Lecliss/Killer_Doll/char060601.skel",
+        "atlas": "assets/spine/character/Lecliss/Killer_Doll/char060601.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char060601.png"
+      }
+    ]
+  },
+  {
+    "id": "Levia",
+    "name": "萊維亞",
+    "gender": "female",
+    "skins": [
+      {
+        "id": "assets/spine/character/Levia/Night_of_Jealousy/char067302.skel",
+        "name": "嫉妒之夜",
+        "sourceLabel": "Night of Jealousy",
+        "skeleton": "assets/spine/character/Levia/Night_of_Jealousy/char067302.skel",
+        "atlas": "assets/spine/character/Levia/Night_of_Jealousy/char067302.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char067302.png"
+      },
+      {
+        "id": "assets/spine/character/Levia/Overheat/char067303.skel",
+        "name": "過熱",
+        "sourceLabel": "Overheat",
+        "skeleton": "assets/spine/character/Levia/Overheat/char067303.skel",
+        "atlas": "assets/spine/character/Levia/Overheat/char067303.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char067303.png"
+      },
+      {
+        "id": "assets/spine/character/Levia/Track_and_Field_Captain/char067301.skel",
+        "name": "田徑隊長",
+        "sourceLabel": "Track and Field Captain",
+        "skeleton": "assets/spine/character/Levia/Track_and_Field_Captain/char067301.skel",
+        "atlas": "assets/spine/character/Levia/Track_and_Field_Captain/char067301.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char067301.png"
+      }
+    ]
+  },
+  {
+    "id": "Liatris",
+    "name": "莉亞特里斯",
+    "gender": "female",
+    "skins": [
+      {
+        "id": "assets/spine/character/Liatris/Maid_Name_R/char001207.skel",
+        "name": "代號阿爾女僕",
+        "sourceLabel": "Maid Name R",
+        "skeleton": "assets/spine/character/Liatris/Maid_Name_R/char001207.skel",
+        "atlas": "assets/spine/character/Liatris/Maid_Name_R/char001207.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char001207.png"
+      },
+      {
+        "id": "assets/spine/character/Liatris/Neon_Stalker/char001206.skel",
+        "name": "霓虹追獵者",
+        "sourceLabel": "Neon Stalker",
+        "skeleton": "assets/spine/character/Liatris/Neon_Stalker/char001206.skel",
+        "atlas": "assets/spine/character/Liatris/Neon_Stalker/char001206.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char001206.png"
+      },
+      {
+        "id": "assets/spine/character/Liatris/Rodev's_Star/char001201.skel",
+        "name": "羅戴夫之星",
+        "sourceLabel": "Rodev's Star",
+        "skeleton": "assets/spine/character/Liatris/Rodev's_Star/char001201.skel",
+        "atlas": "assets/spine/character/Liatris/Rodev's_Star/char001201.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char001201.png"
+      }
+    ]
+  },
+  {
+    "id": "Liberta",
+    "name": "利貝爾塔",
+    "gender": "female",
+    "skins": [
+      {
+        "id": "assets/spine/character/Liberta/Dark_Saintess/char003801.skel",
+        "name": "黑暗聖女",
+        "sourceLabel": "Dark Saintess",
+        "skeleton": "assets/spine/character/Liberta/Dark_Saintess/char003801.skel",
+        "atlas": "assets/spine/character/Liberta/Dark_Saintess/char003801.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char003801.png"
+      },
+      {
+        "id": "assets/spine/character/Liberta/Hedonist/char003892.skel",
+        "name": "享樂主義者",
+        "sourceLabel": "Hedonist",
+        "skeleton": "assets/spine/character/Liberta/Hedonist/char003892.skel",
+        "atlas": "assets/spine/character/Liberta/Hedonist/char003892.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char003892.png"
+      },
+      {
+        "id": "assets/spine/character/Liberta/Miracle_Rose/char003803.skel",
+        "name": "奇蹟玫瑰",
+        "sourceLabel": "Miracle Rose",
+        "skeleton": "assets/spine/character/Liberta/Miracle_Rose/char003803.skel",
+        "atlas": "assets/spine/character/Liberta/Miracle_Rose/char003803.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char003803.png"
+      },
+      {
+        "id": "assets/spine/character/Liberta/Onsen_Manager/char003802.skel",
+        "name": "溫泉管理員",
+        "sourceLabel": "Onsen Manager",
+        "skeleton": "assets/spine/character/Liberta/Onsen_Manager/char003802.skel",
+        "atlas": "assets/spine/character/Liberta/Onsen_Manager/char003802.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char003802.png"
+      }
+    ]
+  },
+  {
+    "id": "Lisianne",
+    "name": "莉西安",
+    "gender": "female",
+    "skins": [
+      {
+        "id": "assets/spine/character/Lisianne/Wandering_Priest/char100301.skel",
+        "name": "流浪祭司",
+        "sourceLabel": "Wandering Priest",
+        "skeleton": "assets/spine/character/Lisianne/Wandering_Priest/char100301.skel",
+        "atlas": "assets/spine/character/Lisianne/Wandering_Priest/char100301.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char100301.png"
+      }
+    ]
+  },
+  {
+    "id": "Loen",
+    "name": "羅安",
+    "gender": "female",
+    "skins": [
+      {
+        "id": "assets/spine/character/Loen/Celebrity_Bunny/char003203.skel",
+        "name": "明星兔女郎",
+        "sourceLabel": "Celebrity Bunny",
+        "skeleton": "assets/spine/character/Loen/Celebrity_Bunny/char003203.skel",
+        "atlas": "assets/spine/character/Loen/Celebrity_Bunny/char003203.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char003203.png"
+      },
+      {
+        "id": "assets/spine/character/Loen/Last_Hope/char003201.skel",
+        "name": "最後的希望",
+        "sourceLabel": "Last Hope",
+        "skeleton": "assets/spine/character/Loen/Last_Hope/char003201.skel",
+        "atlas": "assets/spine/character/Loen/Last_Hope/char003201.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char003201.png"
+      },
+      {
+        "id": "assets/spine/character/Loen/Track_and_Field_Team/char003202.skel",
+        "name": "田徑隊",
+        "sourceLabel": "Track and Field Team",
+        "skeleton": "assets/spine/character/Loen/Track_and_Field_Team/char003202.skel",
+        "atlas": "assets/spine/character/Loen/Track_and_Field_Team/char003202.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char003202.png"
+      }
+    ]
+  },
+  {
+    "id": "Lucrezia",
+    "name": "露克蕾齊亞",
+    "gender": "female",
+    "skins": [
+      {
+        "id": "assets/spine/character/Lucrezia/Seductive_Wings/char100601.skel",
+        "name": "誘惑之翼",
+        "sourceLabel": "Seductive Wings",
+        "skeleton": "assets/spine/character/Lucrezia/Seductive_Wings/char100601.skel",
+        "atlas": "assets/spine/character/Lucrezia/Seductive_Wings/char100601.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char100601.png"
+      }
+    ]
+  },
+  {
+    "id": "Luvencia",
+    "name": "盧班希亞",
+    "gender": "female",
+    "skins": [
+      {
+        "id": "assets/spine/character/Luvencia/Deal_Snatcher/char067502.skel",
+        "name": "交易掠奪者",
+        "sourceLabel": "Deal Snatcher",
+        "skeleton": "assets/spine/character/Luvencia/Deal_Snatcher/char067502.skel",
+        "atlas": "assets/spine/character/Luvencia/Deal_Snatcher/char067502.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char067502.png"
+      },
+      {
+        "id": "assets/spine/character/Luvencia/Ocean_Vanguard/char067504.skel",
+        "name": "海洋先鋒",
+        "sourceLabel": "Ocean Vanguard",
+        "skeleton": "assets/spine/character/Luvencia/Ocean_Vanguard/char067504.skel",
+        "atlas": "assets/spine/character/Luvencia/Ocean_Vanguard/char067504.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char067504.png"
+      },
+      {
+        "id": "assets/spine/character/Luvencia/Wild_Dog/char067503.skel",
+        "name": "狂犬",
+        "sourceLabel": "Wild Dog",
+        "skeleton": "assets/spine/character/Luvencia/Wild_Dog/char067503.skel",
+        "atlas": "assets/spine/character/Luvencia/Wild_Dog/char067503.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char067503.png"
+      }
+    ]
+  },
+  {
+    "id": "Lydia",
+    "name": "莉迪亞",
+    "gender": "female",
+    "skins": [
+      {
+        "id": "assets/spine/character/Lydia/Apprentice_Spearman/char103301.skel",
+        "name": "見習槍兵",
+        "sourceLabel": "Apprentice Spearman",
+        "skeleton": "assets/spine/character/Lydia/Apprentice_Spearman/char103301.skel",
+        "atlas": "assets/spine/character/Lydia/Apprentice_Spearman/char103301.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char103301.png"
+      }
+    ]
+  },
+  {
+    "id": "Mamonir",
+    "name": "馬莫尼勒",
+    "gender": "female",
+    "skins": [
+      {
+        "id": "assets/spine/character/Mamonir/Miracle_Marine/char067803.skel",
+        "name": "奇蹟海軍",
+        "sourceLabel": "Miracle Marine",
+        "skeleton": "assets/spine/character/Mamonir/Miracle_Marine/char067803.skel",
+        "atlas": "assets/spine/character/Mamonir/Miracle_Marine/char067803.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char067803.png"
+      },
+      {
+        "id": "assets/spine/character/Mamonir/Night_of_Death/char067801.skel",
+        "name": "死亡之夜",
+        "sourceLabel": "Night of Death",
+        "skeleton": "assets/spine/character/Mamonir/Night_of_Death/char067801.skel",
+        "atlas": "assets/spine/character/Mamonir/Night_of_Death/char067801.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char067801.png"
+      }
+    ]
+  },
+  {
+    "id": "Maria",
+    "name": "瑪麗亞",
+    "gender": "female",
+    "skins": [
+      {
+        "id": "assets/spine/character/Maria/Archmage/char103601.skel",
+        "name": "大魔法師",
+        "sourceLabel": "Archmage",
+        "skeleton": "assets/spine/character/Maria/Archmage/char103601.skel",
+        "atlas": "assets/spine/character/Maria/Archmage/char103601.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char103601.png"
+      }
+    ]
+  },
+  {
+    "id": "Michaela",
+    "name": "米卡埃拉",
+    "gender": "female",
+    "skins": [
+      {
+        "id": "assets/spine/character/Michaela/Acting_Archbishop/char067403.skel",
+        "name": "代理大主教",
+        "sourceLabel": "Acting Archbishop",
+        "skeleton": "assets/spine/character/Michaela/Acting_Archbishop/char067403.skel",
+        "atlas": "assets/spine/character/Michaela/Acting_Archbishop/char067403.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char067403.png"
+      },
+      {
+        "id": "assets/spine/character/Michaela/Beachside_Justice/char067401.skel",
+        "name": "海邊正義",
+        "sourceLabel": "Beachside Justice",
+        "skeleton": "assets/spine/character/Michaela/Beachside_Justice/char067401.skel",
+        "atlas": "assets/spine/character/Michaela/Beachside_Justice/char067401.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char067401.png"
+      },
+      {
+        "id": "assets/spine/character/Michaela/Queen_of_Signatures/char067402.skel",
+        "name": "簽名女王",
+        "sourceLabel": "Queen of Signatures",
+        "skeleton": "assets/spine/character/Michaela/Queen_of_Signatures/char067402.skel",
+        "atlas": "assets/spine/character/Michaela/Queen_of_Signatures/char067402.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char067402.png"
+      },
+      {
+        "id": "assets/spine/character/Michaela/True_Liberation/char067491.skel",
+        "name": "真正的解放",
+        "sourceLabel": "True Liberation",
+        "skeleton": "assets/spine/character/Michaela/True_Liberation/char067491.skel",
+        "atlas": "assets/spine/character/Michaela/True_Liberation/char067491.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char067491.png"
+      }
+    ]
+  },
+  {
+    "id": "Morpeah",
+    "name": "墨菲亞",
+    "gender": "female",
+    "skins": [
+      {
+        "id": "assets/spine/character/Morpeah/Apostle/char003403.skel",
+        "name": "使者",
+        "sourceLabel": "Apostle",
+        "skeleton": "assets/spine/character/Morpeah/Apostle/char003403.skel",
+        "atlas": "assets/spine/character/Morpeah/Apostle/char003403.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char003403.png"
+      },
+      {
+        "id": "assets/spine/character/Morpeah/Beach_Vacation/char003401.skel",
+        "name": "海灘假期",
+        "sourceLabel": "Beach Vacation",
+        "skeleton": "assets/spine/character/Morpeah/Beach_Vacation/char003401.skel",
+        "atlas": "assets/spine/character/Morpeah/Beach_Vacation/char003401.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char003401.png"
+      },
+      {
+        "id": "assets/spine/character/Morpeah/Daydream_Bunny/char003402.skel",
+        "name": "白日夢兔女郎",
+        "sourceLabel": "Daydream Bunny",
+        "skeleton": "assets/spine/character/Morpeah/Daydream_Bunny/char003402.skel",
+        "atlas": "assets/spine/character/Morpeah/Daydream_Bunny/char003402.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char003402.png"
+      }
+    ]
+  },
+  {
+    "id": "Nebris",
+    "name": "內布利斯",
+    "gender": "female",
+    "skins": [
+      {
+        "id": "assets/spine/character/Nebris/Labyrinth_Gatekeeper/char003301.skel",
+        "name": "迷宮守門人",
+        "sourceLabel": "Labyrinth Gatekeeper",
+        "skeleton": "assets/spine/character/Nebris/Labyrinth_Gatekeeper/char003301.skel",
+        "atlas": "assets/spine/character/Nebris/Labyrinth_Gatekeeper/char003301.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char003301.png"
+      },
+      {
+        "id": "assets/spine/character/Nebris/Laid-back_Lifeguard/char003302.skel",
+        "name": "悠閒救生員",
+        "sourceLabel": "Laid-back Lifeguard",
+        "skeleton": "assets/spine/character/Nebris/Laid-back_Lifeguard/char003302.skel",
+        "atlas": "assets/spine/character/Nebris/Laid-back_Lifeguard/char003302.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char003302.png"
+      },
+      {
+        "id": "assets/spine/character/Nebris/Lucky_Bikini/char003392.skel",
+        "name": "幸運比基尼",
+        "sourceLabel": "Lucky Bikini",
+        "skeleton": "assets/spine/character/Nebris/Lucky_Bikini/char003392.skel",
+        "atlas": "assets/spine/character/Nebris/Lucky_Bikini/char003392.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char003392.png"
+      },
+      {
+        "id": "assets/spine/character/Nebris/New_Hire/char003303.skel",
+        "name": "新進員工",
+        "sourceLabel": "New Hire",
+        "skeleton": "assets/spine/character/Nebris/New_Hire/char003303.skel",
+        "atlas": "assets/spine/character/Nebris/New_Hire/char003303.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char003303.png"
+      }
+    ]
+  },
+  {
+    "id": "Nekyndalia",
+    "name": "涅肯達莉亞",
+    "gender": "female",
+    "skins": [
+      {
+        "id": "assets/spine/character/Nekyndalia/Deadeye/char004301.skel",
+        "name": "致命之眼",
+        "sourceLabel": "Deadeye",
+        "skeleton": "assets/spine/character/Nekyndalia/Deadeye/char004301.skel",
+        "atlas": "assets/spine/character/Nekyndalia/Deadeye/char004301.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char004301.png"
+      }
+    ]
+  },
+  {
+    "id": "Olivier",
+    "name": "奧利維爾",
+    "gender": "female",
+    "skins": [
+      {
+        "id": "assets/spine/character/Olivier/Apostle/char003602.skel",
+        "name": "使者",
+        "sourceLabel": "Apostle",
+        "skeleton": "assets/spine/character/Olivier/Apostle/char003602.skel",
+        "atlas": "assets/spine/character/Olivier/Apostle/char003602.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char003602.png"
+      },
+      {
+        "id": "assets/spine/character/Olivier/Faithful_Wings/char003601.skel",
+        "name": "忠誠之翼",
+        "sourceLabel": "Faithful Wings",
+        "skeleton": "assets/spine/character/Olivier/Faithful_Wings/char003601.skel",
+        "atlas": "assets/spine/character/Olivier/Faithful_Wings/char003601.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char003601.png"
+      },
+      {
+        "id": "assets/spine/character/Olivier/Fallen_Wings/char003603.skel",
+        "name": "墮落之翼",
+        "sourceLabel": "Fallen Wings",
+        "skeleton": "assets/spine/character/Olivier/Fallen_Wings/char003603.skel",
+        "atlas": "assets/spine/character/Olivier/Fallen_Wings/char003603.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char003603.png"
+      },
+      {
+        "id": "assets/spine/character/Olivier/Retired_Legend/char003604.skel",
+        "name": "退隱傳奇",
+        "sourceLabel": "Retired Legend",
+        "skeleton": "assets/spine/character/Olivier/Retired_Legend/char003604.skel",
+        "atlas": "assets/spine/character/Olivier/Retired_Legend/char003604.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char003604.png"
+      }
+    ]
+  },
+  {
+    "id": "Palette",
+    "name": "帕蕾特",
+    "gender": "female",
+    "skins": [
+      {
+        "id": "assets/spine/character/Palette/Miracle_Violet/char004202.skel",
+        "name": "奇蹟紫羅蘭",
+        "sourceLabel": "Miracle Violet",
+        "skeleton": "assets/spine/character/Palette/Miracle_Violet/char004202.skel",
+        "atlas": "assets/spine/character/Palette/Miracle_Violet/char004202.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char004202.png"
+      },
+      {
+        "id": "assets/spine/character/Palette/Shattered_Dream/char004201.skel",
+        "name": "破碎之夢",
+        "sourceLabel": "Shattered Dream",
+        "skeleton": "assets/spine/character/Palette/Shattered_Dream/char004201.skel",
+        "atlas": "assets/spine/character/Palette/Shattered_Dream/char004201.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char004201.png"
+      }
+    ]
+  },
+  {
+    "id": "Priestess",
+    "name": "女神官",
+    "gender": "female",
+    "skins": [
+      {
+        "id": "assets/spine/character/Priestess/Earth_Mother_Believer/char020701.skel",
+        "name": "地母神信徒",
+        "sourceLabel": "Earth Mother Believer",
+        "skeleton": "assets/spine/character/Priestess/Earth_Mother_Believer/char020701.skel",
+        "atlas": "assets/spine/character/Priestess/Earth_Mother_Believer/char020701.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char020701.png"
+      }
+    ]
+  },
+  {
+    "id": "Rafina",
+    "name": "拉菲娜",
+    "gender": "female",
+    "skins": [
+      {
+        "id": "assets/spine/character/Rafina/Code_Name_A/char060702.skel",
+        "name": "代號艾",
+        "sourceLabel": "Code Name A",
+        "skeleton": "assets/spine/character/Rafina/Code_Name_A/char060702.skel",
+        "atlas": "assets/spine/character/Rafina/Code_Name_A/char060702.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char060702.png"
+      },
+      {
+        "id": "assets/spine/character/Rafina/Game_Club/char060706.skel",
+        "name": "遊戲社",
+        "sourceLabel": "Game Club",
+        "skeleton": "assets/spine/character/Rafina/Game_Club/char060706.skel",
+        "atlas": "assets/spine/character/Rafina/Game_Club/char060706.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char060706.png"
+      },
+      {
+        "id": "assets/spine/character/Rafina/Steel_Engine/char060701.skel",
+        "name": "鋼鐵引擎",
+        "sourceLabel": "Steel Engine",
+        "skeleton": "assets/spine/character/Rafina/Steel_Engine/char060701.skel",
+        "atlas": "assets/spine/character/Rafina/Steel_Engine/char060701.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char060701.png"
+      }
+    ]
+  },
+  {
+    "id": "Refithea",
+    "name": "芮彼泰雅",
+    "gender": "female",
+    "skins": [
+      {
+        "id": "assets/spine/character/Refithea/Poolside_Fairy/char066803.skel",
+        "name": "池畔妖精",
+        "sourceLabel": "Poolside Fairy",
+        "skeleton": "assets/spine/character/Refithea/Poolside_Fairy/char066803.skel",
+        "atlas": "assets/spine/character/Refithea/Poolside_Fairy/char066803.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char066803.png"
+      },
+      {
+        "id": "assets/spine/character/Refithea/Pure_White_Blessing/char066802.skel",
+        "name": "純白祝福",
+        "sourceLabel": "Pure White Blessing",
+        "skeleton": "assets/spine/character/Refithea/Pure_White_Blessing/char066802.skel",
+        "atlas": "assets/spine/character/Refithea/Pure_White_Blessing/char066802.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char066802.png"
+      },
+      {
+        "id": "assets/spine/character/Refithea/Pure_White_Blessing/char066802_c.skel",
+        "name": "純白祝福・款式2",
+        "sourceLabel": "Pure White Blessing",
+        "skeleton": "assets/spine/character/Refithea/Pure_White_Blessing/char066802_c.skel",
+        "atlas": "assets/spine/character/Refithea/Pure_White_Blessing/char066802_c.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char066802.png"
+      },
+      {
+        "id": "assets/spine/character/Refithea/The_Gluttonous/char066801.skel",
+        "name": "饕餮",
+        "sourceLabel": "The Gluttonous",
+        "skeleton": "assets/spine/character/Refithea/The_Gluttonous/char066801.skel",
+        "atlas": "assets/spine/character/Refithea/The_Gluttonous/char066801.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char066801.png"
+      }
+    ]
+  },
+  {
+    "id": "Rigenette",
+    "name": "黎潔妮特",
+    "gender": "female",
+    "skins": [
+      {
+        "id": "assets/spine/character/Rigenette/Little_Hunter/char103401.skel",
+        "name": "小獵人",
+        "sourceLabel": "Little Hunter",
+        "skeleton": "assets/spine/character/Rigenette/Little_Hunter/char103401.skel",
+        "atlas": "assets/spine/character/Rigenette/Little_Hunter/char103401.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char103401.png"
+      }
+    ]
+  },
+  {
+    "id": "Rou",
+    "name": "魯",
+    "gender": "female",
+    "skins": [
+      {
+        "id": "assets/spine/character/Rou/Nature's_Claw/char000504.skel",
+        "name": "自然之爪",
+        "sourceLabel": "Nature's Claw",
+        "skeleton": "assets/spine/character/Rou/Nature's_Claw/char000504.skel",
+        "atlas": "assets/spine/character/Rou/Nature's_Claw/char000504.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char000504.png"
+      },
+      {
+        "id": "assets/spine/character/Rou/Red_Riding_Hood/char000502.skel",
+        "name": "小紅帽",
+        "sourceLabel": "Red Riding Hood",
+        "skeleton": "assets/spine/character/Rou/Red_Riding_Hood/char000502.skel",
+        "atlas": "assets/spine/character/Rou/Red_Riding_Hood/char000502.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char000502.png"
+      },
+      {
+        "id": "assets/spine/character/Rou/Red_Riding_Hood/char000502_c.skel",
+        "name": "小紅帽・款式2",
+        "sourceLabel": "Red Riding Hood",
+        "skeleton": "assets/spine/character/Rou/Red_Riding_Hood/char000502_c.skel",
+        "atlas": "assets/spine/character/Rou/Red_Riding_Hood/char000502_c.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char000502.png"
+      },
+      {
+        "id": "assets/spine/character/Rou/Stray_Cat/char000506.skel",
+        "name": "流浪貓",
+        "sourceLabel": "Stray Cat",
+        "skeleton": "assets/spine/character/Rou/Stray_Cat/char000506.skel",
+        "atlas": "assets/spine/character/Rou/Stray_Cat/char000506.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char000506.png"
+      },
+      {
+        "id": "assets/spine/character/Rou/White_Cat/char000501.skel",
+        "name": "白貓",
+        "sourceLabel": "White Cat",
+        "skeleton": "assets/spine/character/Rou/White_Cat/char000501.skel",
+        "atlas": "assets/spine/character/Rou/White_Cat/char000501.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char000501.png"
+      }
+    ]
+  },
+  {
+    "id": "Roxy",
+    "name": "洛琪希",
+    "gender": "female",
+    "skins": [
+      {
+        "id": "assets/spine/character/Roxy/Emerging_Desire/char020102.skel",
+        "name": "萌芽的慾望",
+        "sourceLabel": "Emerging Desire",
+        "skeleton": "assets/spine/character/Roxy/Emerging_Desire/char020102.skel",
+        "atlas": "assets/spine/character/Roxy/Emerging_Desire/char020102.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char020102.png"
+      },
+      {
+        "id": "assets/spine/character/Roxy/Respected_Master/char020101.skel",
+        "name": "受人尊敬的師父",
+        "sourceLabel": "Respected Master",
+        "skeleton": "assets/spine/character/Roxy/Respected_Master/char020101.skel",
+        "atlas": "assets/spine/character/Roxy/Respected_Master/char020101.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char020101.png"
+      }
+    ]
+  },
+  {
+    "id": "Rubia",
+    "name": "露比雅",
+    "gender": "female",
+    "skins": [
+      {
+        "id": "assets/spine/character/Rubia/Maid_Bikini/char000807.skel",
+        "name": "比基尼女僕",
+        "sourceLabel": "Maid Bikini",
+        "skeleton": "assets/spine/character/Rubia/Maid_Bikini/char000807.skel",
+        "atlas": "assets/spine/character/Rubia/Maid_Bikini/char000807.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char000807.png"
+      },
+      {
+        "id": "assets/spine/character/Rubia/Maid_Name_C/char000806.skel",
+        "name": "代號希女僕",
+        "sourceLabel": "Maid Name C",
+        "skeleton": "assets/spine/character/Rubia/Maid_Name_C/char000806.skel",
+        "atlas": "assets/spine/character/Rubia/Maid_Name_C/char000806.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char000806.png"
+      },
+      {
+        "id": "assets/spine/character/Rubia/The_Empress_of_the_Ocean/char000804.skel",
+        "name": "海洋女帝",
+        "sourceLabel": "The Empress of the Ocean",
+        "skeleton": "assets/spine/character/Rubia/The_Empress_of_the_Ocean/char000804.skel",
+        "atlas": "assets/spine/character/Rubia/The_Empress_of_the_Ocean/char000804.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char000804.png"
+      },
+      {
+        "id": "assets/spine/character/Rubia/Thorn_of_the_Desert/char000801.skel",
+        "name": "沙漠荊棘",
+        "sourceLabel": "Thorn of the Desert",
+        "skeleton": "assets/spine/character/Rubia/Thorn_of_the_Desert/char000801.skel",
+        "atlas": "assets/spine/character/Rubia/Thorn_of_the_Desert/char000801.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char000801.png"
+      }
+    ]
+  },
+  {
+    "id": "Samay",
+    "name": "莎美",
+    "gender": "female",
+    "skins": [
+      {
+        "id": "assets/spine/character/Samay/Kind_Liberator/char101401.skel",
+        "name": "溫柔解放者",
+        "sourceLabel": "Kind Liberator",
+        "skeleton": "assets/spine/character/Samay/Kind_Liberator/char101401.skel",
+        "atlas": "assets/spine/character/Samay/Kind_Liberator/char101401.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char101401.png"
+      },
+      {
+        "id": "assets/spine/character/Samay/Kind_Student/char101402.skel",
+        "name": "善良學生",
+        "sourceLabel": "Kind Student",
+        "skeleton": "assets/spine/character/Samay/Kind_Student/char101402.skel",
+        "atlas": "assets/spine/character/Samay/Kind_Student/char101402.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char101402.png"
+      }
+    ]
+  },
+  {
+    "id": "Scheherazade",
+    "name": "莎赫拉查德",
+    "gender": "female",
+    "skins": [
+      {
+        "id": "assets/spine/character/Scheherazade/Code_Name_S/char000304.skel",
+        "name": "代號艾絲",
+        "sourceLabel": "Code Name S",
+        "skeleton": "assets/spine/character/Scheherazade/Code_Name_S/char000304.skel",
+        "atlas": "assets/spine/character/Scheherazade/Code_Name_S/char000304.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char000304.png"
+      },
+      {
+        "id": "assets/spine/character/Scheherazade/Deliberate_Ace/char000396.skel",
+        "name": "運籌王牌",
+        "sourceLabel": "Deliberate Ace",
+        "skeleton": "assets/spine/character/Scheherazade/Deliberate_Ace/char000396.skel",
+        "atlas": "assets/spine/character/Scheherazade/Deliberate_Ace/char000396.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char000396.png"
+      },
+      {
+        "id": "assets/spine/character/Scheherazade/Pool_Party/char000306.skel",
+        "name": "泳池派對",
+        "sourceLabel": "Pool Party",
+        "skeleton": "assets/spine/character/Scheherazade/Pool_Party/char000306.skel",
+        "atlas": "assets/spine/character/Scheherazade/Pool_Party/char000306.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char000306.png"
+      },
+      {
+        "id": "assets/spine/character/Scheherazade/The_Lapis_Witch/char000301.skel",
+        "name": "青金石魔女",
+        "sourceLabel": "The Lapis Witch",
+        "skeleton": "assets/spine/character/Scheherazade/The_Lapis_Witch/char000301.skel",
+        "atlas": "assets/spine/character/Scheherazade/The_Lapis_Witch/char000301.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char000301.png"
+      },
+      {
+        "id": "assets/spine/character/Scheherazade/The_Magic_School_Professor/char000303.skel",
+        "name": "魔法學校教授",
+        "sourceLabel": "The Magic School Professor",
+        "skeleton": "assets/spine/character/Scheherazade/The_Magic_School_Professor/char000303.skel",
+        "atlas": "assets/spine/character/Scheherazade/The_Magic_School_Professor/char000303.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char000303.png"
+      }
+    ]
+  },
+  {
+    "id": "Seir",
+    "name": "賽爾",
+    "gender": "female",
+    "skins": [
+      {
+        "id": "assets/spine/character/Seir/B-Rank_Idol/char101102.skel",
+        "name": "新秀偶像",
+        "sourceLabel": "B-Rank Idol",
+        "skeleton": "assets/spine/character/Seir/B-Rank_Idol/char101102.skel",
+        "atlas": "assets/spine/character/Seir/B-Rank_Idol/char101102.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char101102.png"
+      },
+      {
+        "id": "assets/spine/character/Seir/B-Rank_Idol/char101102_c.skel",
+        "name": "新秀偶像・款式2",
+        "sourceLabel": "B-Rank Idol",
+        "skeleton": "assets/spine/character/Seir/B-Rank_Idol/char101102_c.skel",
+        "atlas": "assets/spine/character/Seir/B-Rank_Idol/char101102_c.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char101102.png"
+      },
+      {
+        "id": "assets/spine/character/Seir/Demon's_Daughter/char101101.skel",
+        "name": "惡魔之女",
+        "sourceLabel": "Demon's Daughter",
+        "skeleton": "assets/spine/character/Seir/Demon's_Daughter/char101101.skel",
+        "atlas": "assets/spine/character/Seir/Demon's_Daughter/char101101.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char101101.png"
+      },
+      {
+        "id": "assets/spine/character/Seir/Demon's_Daughter/char101101_c.skel",
+        "name": "惡魔之女・款式2",
+        "sourceLabel": "Demon's Daughter",
+        "skeleton": "assets/spine/character/Seir/Demon's_Daughter/char101101_c.skel",
+        "atlas": "assets/spine/character/Seir/Demon's_Daughter/char101101_c.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char101101.png"
+      },
+      {
+        "id": "assets/spine/character/Seir/New_Hire/char101103.skel",
+        "name": "新進員工",
+        "sourceLabel": "New Hire",
+        "skeleton": "assets/spine/character/Seir/New_Hire/char101103.skel",
+        "atlas": "assets/spine/character/Seir/New_Hire/char101103.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char101103.png"
+      }
+    ]
+  },
+  {
+    "id": "Sonya",
+    "name": "索妮亞",
+    "gender": "female",
+    "skins": [
+      {
+        "id": "assets/spine/character/Sonya/Little_Pumpkin_Girl/char003902.skel",
+        "name": "小南瓜少女",
+        "sourceLabel": "Little Pumpkin Girl",
+        "skeleton": "assets/spine/character/Sonya/Little_Pumpkin_Girl/char003902.skel",
+        "atlas": "assets/spine/character/Sonya/Little_Pumpkin_Girl/char003902.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char003902.png"
+      },
+      {
+        "id": "assets/spine/character/Sonya/Shadowed_Dream/char003901.skel",
+        "name": "暗影之夢",
+        "sourceLabel": "Shadowed Dream",
+        "skeleton": "assets/spine/character/Sonya/Shadowed_Dream/char003901.skel",
+        "atlas": "assets/spine/character/Sonya/Shadowed_Dream/char003901.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char003901.png"
+      }
+    ]
+  },
+  {
+    "id": "Sword Maiden",
+    "name": "劍之聖女",
+    "gender": "female",
+    "skins": [
+      {
+        "id": "assets/spine/character/Sword_Maiden/Supreme_God_Archbishop/char020901.skel",
+        "name": "至高神大主教",
+        "sourceLabel": "Supreme God Archbishop",
+        "skeleton": "assets/spine/character/Sword_Maiden/Supreme_God_Archbishop/char020901.skel",
+        "atlas": "assets/spine/character/Sword_Maiden/Supreme_God_Archbishop/char020901.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char020901.png"
+      }
+    ]
+  },
+  {
+    "id": "Sylvia",
+    "name": "席比雅",
+    "gender": "female",
+    "skins": [
+      {
+        "id": "assets/spine/character/Sylvia/Admiral/char001004.skel",
+        "name": "海軍上將",
+        "sourceLabel": "Admiral",
+        "skeleton": "assets/spine/character/Sylvia/Admiral/char001004.skel",
+        "atlas": "assets/spine/character/Sylvia/Admiral/char001004.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char001004.png"
+      },
+      {
+        "id": "assets/spine/character/Sylvia/Bikini_Agent/char001006.skel",
+        "name": "比基尼特務",
+        "sourceLabel": "Bikini Agent",
+        "skeleton": "assets/spine/character/Sylvia/Bikini_Agent/char001006.skel",
+        "atlas": "assets/spine/character/Sylvia/Bikini_Agent/char001006.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char001006.png"
+      },
+      {
+        "id": "assets/spine/character/Sylvia/Crimson_Lotus/char001092.skel",
+        "name": "紅蓮",
+        "sourceLabel": "Crimson Lotus",
+        "skeleton": "assets/spine/character/Sylvia/Crimson_Lotus/char001092.skel",
+        "atlas": "assets/spine/character/Sylvia/Crimson_Lotus/char001092.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char001092.png"
+      },
+      {
+        "id": "assets/spine/character/Sylvia/Desert_Flower/char001001.skel",
+        "name": "沙漠之花",
+        "sourceLabel": "Desert Flower",
+        "skeleton": "assets/spine/character/Sylvia/Desert_Flower/char001001.skel",
+        "atlas": "assets/spine/character/Sylvia/Desert_Flower/char001001.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char001001.png"
+      },
+      {
+        "id": "assets/spine/character/Sylvia/The_Sword_Queen/char001002.skel",
+        "name": "劍后",
+        "sourceLabel": "The Sword Queen",
+        "skeleton": "assets/spine/character/Sylvia/The_Sword_Queen/char001002.skel",
+        "atlas": "assets/spine/character/Sylvia/The_Sword_Queen/char001002.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char001002.png"
+      }
+    ]
+  },
+  {
+    "id": "Teresse",
+    "name": "泰瑞絲",
+    "gender": "female",
+    "skins": [
+      {
+        "id": "assets/spine/character/Teresse/Angel_of_Destruction/char001101.skel",
+        "name": "破壞天使",
+        "sourceLabel": "Angel of Destruction",
+        "skeleton": "assets/spine/character/Teresse/Angel_of_Destruction/char001101.skel",
+        "atlas": "assets/spine/character/Teresse/Angel_of_Destruction/char001101.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char001101.png"
+      },
+      {
+        "id": "assets/spine/character/Teresse/Beachside_Angel/char001107.skel",
+        "name": "海邊天使",
+        "sourceLabel": "Beachside Angel",
+        "skeleton": "assets/spine/character/Teresse/Beachside_Angel/char001107.skel",
+        "atlas": "assets/spine/character/Teresse/Beachside_Angel/char001107.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char001107.png"
+      },
+      {
+        "id": "assets/spine/character/Teresse/Medical_Club/char001106.skel",
+        "name": "保健社",
+        "sourceLabel": "Medical Club",
+        "skeleton": "assets/spine/character/Teresse/Medical_Club/char001106.skel",
+        "atlas": "assets/spine/character/Teresse/Medical_Club/char001106.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char001106.png"
+      },
+      {
+        "id": "assets/spine/character/Teresse/Milky_Bikini/char001197.skel",
+        "name": "乳白比基尼",
+        "sourceLabel": "Milky Bikini",
+        "skeleton": "assets/spine/character/Teresse/Milky_Bikini/char001197.skel",
+        "atlas": "assets/spine/character/Teresse/Milky_Bikini/char001197.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char001197.png"
+      }
+    ]
+  },
+  {
+    "id": "Tyr",
+    "name": "提爾",
+    "gender": "female",
+    "skins": [
+      {
+        "id": "assets/spine/character/Tyr/Innocent_Bunny/char004102.skel",
+        "name": "純真兔女郎",
+        "sourceLabel": "Innocent Bunny",
+        "skeleton": "assets/spine/character/Tyr/Innocent_Bunny/char004102.skel",
+        "atlas": "assets/spine/character/Tyr/Innocent_Bunny/char004102.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char004102.png"
+      },
+      {
+        "id": "assets/spine/character/Tyr/Starlight_Guardian/char004101.skel",
+        "name": "星光守護者",
+        "sourceLabel": "Starlight Guardian",
+        "skeleton": "assets/spine/character/Tyr/Starlight_Guardian/char004101.skel",
+        "atlas": "assets/spine/character/Tyr/Starlight_Guardian/char004101.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char004101.png"
+      }
+    ]
+  },
+  {
+    "id": "Venaka",
+    "name": "貝那卡",
+    "gender": "female",
+    "skins": [
+      {
+        "id": "assets/spine/character/Venaka/DJ/char067201.skel",
+        "name": "音樂混音師",
+        "sourceLabel": "DJ",
+        "skeleton": "assets/spine/character/Venaka/DJ/char067201.skel",
+        "atlas": "assets/spine/character/Venaka/DJ/char067201.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char067201.png"
+      },
+      {
+        "id": "assets/spine/character/Venaka/Wind_Dancer/char067202.skel",
+        "name": "風之舞者",
+        "sourceLabel": "Wind Dancer",
+        "skeleton": "assets/spine/character/Venaka/Wind_Dancer/char067202.skel",
+        "atlas": "assets/spine/character/Venaka/Wind_Dancer/char067202.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char067202.png"
+      }
+    ]
+  },
+  {
+    "id": "Ventana",
+    "name": "班塔納",
+    "gender": "female",
+    "skins": [
+      {
+        "id": "assets/spine/character/Ventana/Comeback_Idol/char067003.skel",
+        "name": "回歸偶像",
+        "sourceLabel": "Comeback Idol",
+        "skeleton": "assets/spine/character/Ventana/Comeback_Idol/char067003.skel",
+        "atlas": "assets/spine/character/Ventana/Comeback_Idol/char067003.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char067003.png"
+      },
+      {
+        "id": "assets/spine/character/Ventana/Onsen_Practitioner/char067004.skel",
+        "name": "溫泉修行者",
+        "sourceLabel": "Onsen Practitioner",
+        "skeleton": "assets/spine/character/Ventana/Onsen_Practitioner/char067004.skel",
+        "atlas": "assets/spine/character/Ventana/Onsen_Practitioner/char067004.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char067004.png"
+      },
+      {
+        "id": "assets/spine/character/Ventana/Snow_White/char067002.skel",
+        "name": "白雪公主",
+        "sourceLabel": "Snow White",
+        "skeleton": "assets/spine/character/Ventana/Snow_White/char067002.skel",
+        "atlas": "assets/spine/character/Ventana/Snow_White/char067002.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char067002.png"
+      }
+    ]
+  },
+  {
+    "id": "Wilhelmina",
+    "name": "威廉明娜",
+    "gender": "female",
+    "skins": [
+      {
+        "id": "assets/spine/character/Wilhelmina/Frozen_Queen/char067604.skel",
+        "name": "冰雪女王",
+        "sourceLabel": "Frozen Queen",
+        "skeleton": "assets/spine/character/Wilhelmina/Frozen_Queen/char067604.skel",
+        "atlas": "assets/spine/character/Wilhelmina/Frozen_Queen/char067604.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char067604.png"
+      },
+      {
+        "id": "assets/spine/character/Wilhelmina/Iron_Monarch/char067601.skel",
+        "name": "鐵血君主",
+        "sourceLabel": "Iron Monarch",
+        "skeleton": "assets/spine/character/Wilhelmina/Iron_Monarch/char067601.skel",
+        "atlas": "assets/spine/character/Wilhelmina/Iron_Monarch/char067601.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char067601.png"
+      },
+      {
+        "id": "assets/spine/character/Wilhelmina/Water_Park_Queen/char067603.skel",
+        "name": "水上樂園女王",
+        "sourceLabel": "Water Park Queen",
+        "skeleton": "assets/spine/character/Wilhelmina/Water_Park_Queen/char067603.skel",
+        "atlas": "assets/spine/character/Wilhelmina/Water_Park_Queen/char067603.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char067603.png"
+      }
+    ]
+  },
+  {
+    "id": "Yomi",
+    "name": "詠",
+    "gender": "female",
+    "skins": [
+      {
+        "id": "assets/spine/character/Yomi/Gentle_Destroyer/char020201.skel",
+        "name": "溫柔破壞者",
+        "sourceLabel": "Gentle Destroyer",
+        "skeleton": "assets/spine/character/Yomi/Gentle_Destroyer/char020201.skel",
+        "atlas": "assets/spine/character/Yomi/Gentle_Destroyer/char020201.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char020201.png"
+      }
+    ]
+  },
+  {
+    "id": "Yozakura",
+    "name": "夜櫻",
+    "gender": "female",
+    "skins": [
+      {
+        "id": "assets/spine/character/Yozakura/Fist_of_Conviction/char020301.skel",
+        "name": "信念之拳",
+        "sourceLabel": "Fist of Conviction",
+        "skeleton": "assets/spine/character/Yozakura/Fist_of_Conviction/char020301.skel",
+        "atlas": "assets/spine/character/Yozakura/Fist_of_Conviction/char020301.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char020301.png"
+      }
+    ]
+  },
+  {
+    "id": "Yumi",
+    "name": "雪泉",
+    "gender": "female",
+    "skins": [
+      {
+        "id": "assets/spine/character/Yumi/Dancing_Snowflake/char020401.skel",
+        "name": "舞動雪花",
+        "sourceLabel": "Dancing Snowflake",
+        "skeleton": "assets/spine/character/Yumi/Dancing_Snowflake/char020401.skel",
+        "atlas": "assets/spine/character/Yumi/Dancing_Snowflake/char020401.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char020401.png"
+      }
+    ]
+  },
+  {
+    "id": "Yuri",
+    "name": "尤里",
+    "gender": "female",
+    "skins": [
+      {
+        "id": "assets/spine/character/Yuri/Comeback_Idol/char065103.skel",
+        "name": "回歸偶像",
+        "sourceLabel": "Comeback Idol",
+        "skeleton": "assets/spine/character/Yuri/Comeback_Idol/char065103.skel",
+        "atlas": "assets/spine/character/Yuri/Comeback_Idol/char065103.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char065103.png"
+      },
+      {
+        "id": "assets/spine/character/Yuri/Forever_Mascot/char065193.skel",
+        "name": "永遠的吉祥物",
+        "sourceLabel": "Forever Mascot",
+        "skeleton": "assets/spine/character/Yuri/Forever_Mascot/char065193.skel",
+        "atlas": "assets/spine/character/Yuri/Forever_Mascot/char065193.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char065193.png"
+      },
+      {
+        "id": "assets/spine/character/Yuri/Whitebolt/char065102.skel",
+        "name": "白色閃電",
+        "sourceLabel": "Whitebolt",
+        "skeleton": "assets/spine/character/Yuri/Whitebolt/char065102.skel",
+        "atlas": "assets/spine/character/Yuri/Whitebolt/char065102.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char065102.png"
+      }
+    ]
+  },
+  {
+    "id": "Zenith",
+    "name": "潔尼斯",
+    "gender": "female",
+    "skins": [
+      {
+        "id": "assets/spine/character/Zenith/Poolside_Guardian/char061404.skel",
+        "name": "池畔守護者",
+        "sourceLabel": "Poolside Guardian",
+        "skeleton": "assets/spine/character/Zenith/Poolside_Guardian/char061404.skel",
+        "atlas": "assets/spine/character/Zenith/Poolside_Guardian/char061404.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char061404.png"
+      },
+      {
+        "id": "assets/spine/character/Zenith/Robin_Hood/char061402.skel",
+        "name": "羅賓漢",
+        "sourceLabel": "Robin Hood",
+        "skeleton": "assets/spine/character/Zenith/Robin_Hood/char061402.skel",
+        "atlas": "assets/spine/character/Zenith/Robin_Hood/char061402.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char061402.png"
+      },
+      {
+        "id": "assets/spine/character/Zenith/Stranger_Bunny/char061492.skel",
+        "name": "神祕兔女郎",
+        "sourceLabel": "Stranger Bunny",
+        "skeleton": "assets/spine/character/Zenith/Stranger_Bunny/char061492.skel",
+        "atlas": "assets/spine/character/Zenith/Stranger_Bunny/char061492.atlas",
+        "thumbnail": "assets/ui/costume_face/illust_inven_char061492.png"
+      }
+    ]
+  }
+]

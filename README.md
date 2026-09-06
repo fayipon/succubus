@@ -1,145 +1,45 @@
 # Succubus
 
-偏遊戲風格的 3D 人物展示圖鑑。從首頁選取人物，再進入對應的房間，旋轉、縮放與平移查看模型。
+首頁保留原始主視覺與動畫；人物頁沿用 `design/list.png` 的黑紫與粉紅卡框風格，整合原本 Brown Dust II viewer 的立繪。
 
-## 演示
+- 69 位女性角色、173 套皮膚；不顯示稀有度。
+- 同名角色只保留一張卡片，服裝整合成皮膚。神聖悠絲緹亞也歸入悠絲緹亞。
+- 人物區左側為由上到下排列的皮膚選單；切換人物會記住該人物先前選取的皮膚。
+- 預設循環播放 idle；點擊人物或已選取的角色卡播放一次 motion，完成後回到 idle。也可用鍵盤操作。
+- 介面、角色及皮膚名稱均使用繁體中文。部分名稱依原始英文翻譯，對照表可在 `app/data/female-names.txt` 與 `skin-names.txt` 維護。
+- 原本的展示間已移除；舊 `#room/` 連結回到人物列表。
 
-[GitHub Pages 預定網址（等待首次發布）](https://fayipon.github.io/succubus/)
+## 本地使用
 
-由 GitHub Actions 建置並發布。推送 main 後會自動更新；部署狀態見 repository 的 Actions 頁面。
-
-## 初始版本
-
-### v0.6：Blender 照片人物展示（目前預設）
-
-- 展示間使用 `blender-viewer.tsx`，載入 `public/examples/blender-01/` 的房間與人物 GLB。
-- 人物來源為 `design/succubus_01-2.png`，以照片貼圖、輪廓遮罩與網格變形呈現微幅待機動作；不是完整 3D 人體，不提供背面。
-- 支援全身／半身／臉部鏡頭、小角度查看、縮放與動態暫停；眨眼與獨立髮絲動畫尚未完成。
-
-### v0.5：照片驅動的 2.5D（歷史版本）
-
-- 為保留人物相似度，展示間改為原始照片驅動，不再預設顯示幾何草模。
-- `photo-depth-viewer.tsx` 將照片貼在有少量深度起伏的密集網格上，搭配正交鏡頭、小角度視差與局部髮絲 UV 微動；沒有投影皮膚到不相似的人體模型。
-- 深度是程式近似，用於視覺效果，不代表從照片恢復真實人體幾何。左右查看限制約 ±8°，不提供背面或 360°。
-- 全身、半身、臉部鏡頭、縮放、重設、手動拖曳與動態暫停皆保留。支援系統減少動態偏好；無法使用 WebGL 時顯示原圖。
-- 全部由目前程式與現有照片完成，不需要使用者手動建模或外部付費生成服務。舊 GLB 保留為歷史素材。
-
-### v0.4：真正的 3D 人物與房間（歷史版本）
-
-- `/#room/succubus-01` 現在載入真實 GLB 網格，取代先前的 2D 圖片展示。
-- 原創風格化人物依參考照片的黑髮、深藍服裝與站立輪廓建模；不是精確人像掃描，未見的側面、背面為補充設計。
-- 人物具有立體臉部、五官、頭髮、四肢、手指及不透明服裝；房間包含展示台、地面、弧形窗簾與燈具。
-- 支援 360° OrbitControls、自動轉台、全身／半身／臉部鏡頭、縮放、平移、重設與專注檢視。使用 GLTFLoader、PBR 材質、即時照明與陰影。
-- 可在展示間下載人物 GLB；人物約 13.4 萬個三角形，檔案約 3 MB。尚未加入骨骼綁定或角色動作動畫。
-- 素材：`app/public/examples/succubus-01/character.glb` 與 `room.glb`。
-- 重建模型：在 `app` 執行 `node scripts/create-character.mjs`。
-- 驗證模型：在 `app` 執行 `node scripts/verify-models.mjs`，檢查 GLB 結構、實際載入、三維尺寸、必要部件與表面方向。
-
-以下為先前版本紀錄，2D 限制已由 v0.4 取代。
-
-### v0.3：人物展示間
-
-- 流程：main → char → `/#room/succubus-01`，支援直接開啟、返回圖鑑與瀏覽器上一頁。
-- 第一張人物卡使用 `design/succubus_01.png`，正式素材為 `app/public/images/succubus-01.png`。
-- 展示間提供全身、半身與特寫取景、100–400% 縮放、放大後拖曳平移、重設與專注檢視。
-- 滾輪可縮放；觸控使用縮放列與拖曳。聚焦圖片後可用方向鍵平移、加減鍵縮放、0 重設、Escape 退出專注模式。
-- 此版本為原始圖片展示，未生成其他角度，也未提供 360° 旋轉；既有 3D 模型展示元件保留，待 GLB/glTF 素材加入。
-- 支援手機版面與圖片載入失敗重試。
-
-### v0.2：main → char
-
-- 預設入口 `/#main` 使用 `design/main.png`，點擊「進入遊戲」前往 `/#char`；可返回首頁，瀏覽器上一頁／下一頁同步切換。
-- char 依 `design/char.png` 實作三張可選角色卡與介紹面板。這些是設計概念角色，目前仍沒有可進入的 3D example；房間數量以實際資料計算，3D 按鈕未開放。
-- main 以局部 WebGL UV 位移製作微幅髮絲飄動，約每 5.3 秒眨眼一次。閉眼 keyframe 只在眼睛區域混合，背景與標題固定。
-- 提供動畫暫停，遵循系統 `prefers-reduced-motion`，離開 main 時釋放 GPU 資源，頁面隱藏時停止動畫。WebGL 不支援或素材載入失敗時保留靜態入口。
-- 此效果是 2D 圖像動畫，不是 Live2D 骨架或 3D 人物動畫。
-- 正式圖片在 `app/public/images/`；`design` 的原始參考不會被改寫。眨眼素材的生成說明見 `design/animation-notes.md`。
-
-- 深色遊戲式人物列表，支援手機尺寸。
-- 每個 example 一個 room，至少一位 character，支援多位人物。
-- 選取人物後載入房間及其中所有人物，視角聚焦選取的人物。
-- Three.js GLB/glTF 載入、OrbitControls、載入與錯誤狀態、重設視角及可鍵盤操作的旋轉／縮放按鈕。
-- **目前 examples 為空；尚未加入第一個 3D example。** 實際模型、材質與房間鏡頭效果待第一批素材到齊後驗證。
-
-## 開發
-
-需要 Node.js 22.13+ 與 npm。
-
-```sh
-cd app
-npm ci
-npm run dev
-```
-
-以開發伺服器輸出的 Local URL 為準。
-
-```sh
-cd app
-npx tsc --noEmit
+```powershell
+npm --prefix app ci
 npm run build
-npm run preview
+npm --prefix app run preview
 ```
 
-## 結構
+開啟 http://127.0.0.1:4173/#char 。不需要啟動舊的 4319 viewer。
 
-```text
-design/                       原始設計資料，不直接發布
-app/
-  app/page.tsx                人物列表與選取流程
-  app/globals.css             遊戲選單風格、響應式版面
-  components/room-viewer.tsx   3D 載入、視角、資源清理
-  lib/examples.ts             Example / Character / ModelAsset 型別與登錄
-  public/examples/            正式展示用模型與縮圖
-  .openai/hosting.json        Sites 部署識別
+首次建置會下載固定版本的角色資源，之後使用 `app/.asset-cache/`；清理 `dist` 不會清掉快取。完整建置會將資源及授權文件一起放進 `app/dist`，也可由一般靜態伺服器提供，不依賴本地 API。
+
+開發時保留上述預覽服務，再於另一終端執行 `npm run dev`；開發伺服器會將角色資源請求轉交 4173。
+
+## 驗證與維護
+
+```powershell
+npm run typecheck
+cd app
+node scripts/verify-characters.mjs
+node scripts/verify-ui.mjs
 ```
 
-## 新增 example
+動畫檢查會驗證所有皮膚、貼圖、骨架座標以及互動完成後回到待機。需使用 Node.js 24。
 
-1. 把參考資料放進 `design/<example-id>/`。
-2. 將可發布的 room.glb、人物模型與縮圖放進 `app/public/examples/<example-id>/`。
-3. 在 `app/lib/examples.ts` 的 `examples` 陣列登錄資料：
+`node scripts/import-viewer.mjs <原始viewer資料夾>` 可依女性角色白名單和繁體中文對照表重新產生目錄，同時沿用舊快取。新增角色時要明確加入白名單，未知角色不會自動視為女性。
 
-```ts
-{
-  id: 'example-001',
-  name: '第一個展示間',
-  room: { model: '/examples/example-001/room.glb' },
-  characters: [{
-    id: 'character-001',
-    name: '角色名稱',
-    model: '/examples/example-001/character.glb',
-    portrait: '/examples/example-001/portrait.webp',
-    position: [0, 0, 0],
-    rotation: [0, 0, 0],
-    scale: 1
-  }]
-}
-```
+## 來源
 
-上述內容僅是資料格式說明，沒有預先建立第一個 example。ID 在各自範圍內必須唯一；characters 不可為空。
-座標使用公尺、Y 軸向上，rotation 使用弧度。建議使用包含貼圖的未壓縮 GLB；glTF 的外部貼圖與 bin 檔需保留相對路徑。目前未配置 Draco/KTX2 解碼器、骨骼動畫播放或鏡頭碰撞。
+角色素材來自 [Zormolo/Brown-Dust-2-Assets](https://github.com/Zormolo/Brown-Dust-2-Assets)，固定版本記錄於 `app/data/brown-dust-assets.json`。繁體名稱參考[官方角色活動介紹](https://www.browndust2.com/3rd-anniversary/zh-hant/)，其餘對照採本地翻譯。
 
-## 部署
+遊戲角色與圖像權利歸原權利人所有；資源庫及 Spine Runtime 授權文件保留於 `app/licenses`，亦包含於靜態建置。
 
-演示平台為 GitHub Pages，部署工作流程位於 `.github/workflows/pages.yml`。
-GitHub repository 的 Settings → Pages → Source 必須選擇 GitHub Actions。
-每次推送 main，工作流程會執行 npm ci、TypeScript 檢查與靜態建置，再將 `app/dist` 部署到 https://fayipon.github.io/succubus/。
-
-圖片、CSS、JavaScript 與模型使用相對於網站入口的路徑，支援 `/succubus/` 子目錄。`design` 不會放進網站的建置產物。
-原有 `app/.openai/hosting.json` 保留先前註冊的 Sites 識別，GitHub Pages 不使用該設定。
-
-3D API 參考：[GLTFLoader](https://threejs.org/docs/pages/GLTFLoader.html)、[OrbitControls](https://threejs.org/docs/pages/OrbitControls.html)。
-
-
-
-### v0.7：完整 3D 草模
-展示頁改用 full-01 人物與房間 GLB，可 360 度旋轉。以 MakeHuman CC0 基礎人體建立近似角色，服裝與髮型為程式建模；尚未達到照片相似度。資產授權見 app/public/examples/full-01/LICENSE.ASSETS.md。來源：https://github.com/makehumancommunity/makehuman 。
-
-
-## NOCTIA 動畫展示
-
-本機預覽：`http://127.0.0.1:4173/#room/noctia`。在角色列表選 NOCTIA 後可進入月夜圖書館，切換待機與左手放心前、暫停、近看。遵循減少動態效果偏好，首次進入時暫停動畫。
-
-資料與透明素材位於 `app/public/examples/noctia/`，來源為 `design/noctia/actions-v3/`。網站使用自行實作的 Three.js 加權網格播放器，只支援本角色用到的位移、旋轉、縮放和附件切換；沒有使用 Spine 官方 runtime，也不是通用 Spine 播放器。原有 Succubus 01 的 3D 展示間保留。
-
-部署仍使用既有靜態建置流程，資源採相對網址以支援 GitHub Pages 子路徑。
+保留 GitHub Pages 建置流程與 `design/` 原始設計素材。
